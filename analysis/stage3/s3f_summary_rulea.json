@@ -1,0 +1,20 @@
+{
+ "k": 30,
+ "pos": 10,
+ "neg": 14,
+ "conflicting": 3,
+ "undetermined": 3,
+ "sign_p": 0.5412561893463135,
+ "removed": {
+  "Dingus2016": "only NV behavior (following too closely) is V under rule A",
+  "LambertBelanger2012": "NV codes (running off road, following improperly) are V under rule A",
+  "Shaer2025": "NV measure (short headway) is V under rule A",
+  "Sarwar2017": "NV set (tailgating, abrupt braking) has no NV behavior under rule A",
+  "Li2016": "NV items (safety margin, reduce distance, not yield to passing) are V or blocking under rule A",
+  "Alammar2022": "ADBS conflict subscale mixes tailgating, merging and brake items with NV items (mixed)",
+  "Machado2024": "ADBS conflict subscale is mixed under rule A"
+ },
+ "changed": {
+  "Love2023": "−"
+ }
+}

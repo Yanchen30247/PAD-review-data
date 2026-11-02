@@ -1,0 +1,334 @@
+action,es_id,detail
+fix,A1_demog-377,x_source
+fix,A1_demog-109,y_code
+fix,A2_s1other-0454,n_total
+fix,A2_s1other-0455,n_total
+fix,A2_s1other-0456,n_total
+fix,A2_s1other-0457,n_total
+fix,A2_s1other-0458,n_total
+fix,A2_s1other-0459,n_total
+fix,A2_s1other-0747,note
+fix,A2_s1other-0748,note
+fix,A2_s1other-0749,note
+fix,A2_s1other-0750,note
+fix,A2_s1other-0746,note
+fix,A2_s1other-0745,note
+fix,A2_s1other-0744,note
+fix,A2_s1other-0743,note
+fix,A2_s1other-0722,sd2
+exclude,A1_demog-199,verify
+exclude,A1_demog-198,verify
+exclude,A2_s1other-0543,verify
+exclude,A2_s1other-0542,verify
+exclude,A2_s1other-0539,verify
+exclude,A2_s1other-0438,verify
+exclude,A2_s1other-0439,verify
+exclude,A2_s1other-0441,verify
+exclude,A2_s1other-0442,verify
+exclude,A2_s1other-0437,verify
+exclude,A2_s1other-0436,verify
+exclude,A2_s1other-0435,verify
+exclude,A2_s1other-0648,verify
+exclude,A2_s1other-0650,verify
+exclude,A2_s1other-0640,verify
+exclude,A2_s1other-0401,verify
+exclude,A2_s1other-0402,verify
+exclude,A2_s1other-0382,verify
+exclude,A2_s1other-0400,verify
+exclude,A2_s1other-0209,verify
+exclude,A2_s1other-0214,verify
+fix,B1_s2core-304,y_code
+fix,B1_s2core-303,y_code
+fix,B1_s2core-302,y_code
+fix,B2_s2other-0147,sign_x
+fix,B2_s2other-0148,sign_x
+fix,B2_s2other-0153,sign_x
+fix,B2_s2other-0154,sign_x
+exclude,B2_s2other-0387,verify
+exclude,B2_s2other-0386,verify
+fix,C_s3s4-340,x_code
+fix,C_s3s4-339,x_code
+fix,E_s12s4-0727,or_lo
+fix,E_s12s4-0727,or_hi
+fix,E_s12s4-0729,or_lo
+fix,E_s12s4-0729,or_hi
+fix,E_s12s4-0728,or_lo
+fix,E_s12s4-0728,or_hi
+fix,E_s12s4-0732,or_lo
+fix,E_s12s4-0732,or_hi
+fix,E_s12s4-0731,or_lo
+fix,E_s12s4-0731,or_hi
+fix,E_s12s4-0730,or_lo
+fix,E_s12s4-0730,or_hi
+fix,E_s12s4-1030,x_source
+fix,E_s12s4-1031,x_source
+fix,E_s12s4-1032,x_source
+fix,E_s12s4-1033,x_source
+fix,E_s12s4-1034,x_source
+fix,E_s12s4-1035,x_source
+fix,E_s12s4-1035,x_code
+fix,E_s12s4-1036,x_source
+fix,E_s12s4-1036,x_code
+fix,E_s12s4-1037,x_source
+fix,E_s12s4-1037,x_code
+fix,E_s12s4-1038,x_source
+fix,E_s12s4-1038,x_code
+fix,E_s12s4-1029,x_source
+fix,E_s12s4-1028,x_source
+fix,E_s12s4-1027,x_source
+fix,E_s12s4-1026,x_source
+fix,E_s12s4-1007,x_source
+fix,E_s12s4-1006,x_source
+fix,E_s12s4-1005,x_source
+fix,E_s12s4-1004,x_source
+fix,E_s12s4-1003,x_source
+fix,E_s12s4-1002,x_source
+fix,E_s12s4-1008,x_source
+fix,E_s12s4-1001,x_source
+fix,E_s12s4-0999,x_source
+fix,E_s12s4-0998,x_source
+fix,E_s12s4-0997,x_source
+fix,E_s12s4-0996,x_source
+fix,E_s12s4-0995,x_source
+fix,E_s12s4-0994,x_source
+fix,E_s12s4-1000,x_source
+fix,E_s12s4-1009,x_source
+fix,E_s12s4-1011,x_source
+fix,E_s12s4-1025,x_source
+fix,E_s12s4-1024,x_source
+fix,E_s12s4-1023,x_source
+fix,E_s12s4-1022,x_source
+fix,E_s12s4-1021,x_source
+fix,E_s12s4-1020,x_source
+fix,E_s12s4-1010,x_source
+fix,E_s12s4-1019,x_source
+fix,E_s12s4-1017,x_source
+fix,E_s12s4-1016,x_source
+fix,E_s12s4-1015,x_source
+fix,E_s12s4-1014,x_source
+fix,E_s12s4-1013,x_source
+fix,E_s12s4-1012,x_source
+fix,E_s12s4-1018,x_source
+fix,E_s12s4-0993,x_source
+fix,E_s12s4-1062,x_label
+fix,E_s12s4-1078,adjusted
+fix,E_s12s4-1078,zero_order
+fix,E_s12s4-1078,stat_type
+fix,E_s12s4-1077,primary
+fix,E_s12s4-1076,adjusted
+fix,E_s12s4-1076,zero_order
+fix,E_s12s4-1076,stat_type
+fix,E_s12s4-1075,primary
+fix,E_s12s4-1074,adjusted
+fix,E_s12s4-1074,zero_order
+fix,E_s12s4-1074,stat_type
+fix,E_s12s4-1073,primary
+fix,E_s12s4-1079,primary
+fix,E_s12s4-1072,adjusted
+fix,E_s12s4-1072,zero_order
+fix,E_s12s4-1072,stat_type
+fix,E_s12s4-1070,adjusted
+fix,E_s12s4-1070,zero_order
+fix,E_s12s4-1070,stat_type
+fix,E_s12s4-1069,primary
+fix,E_s12s4-1068,adjusted
+fix,E_s12s4-1068,zero_order
+fix,E_s12s4-1068,stat_type
+fix,E_s12s4-1071,primary
+fix,E_s12s4-1063,x_label
+fix,E_s12s4-1080,adjusted
+fix,E_s12s4-1080,zero_order
+fix,E_s12s4-1080,stat_type
+fix,E_s12s4-1081,primary
+fix,E_s12s4-0992,x_source
+fix,E_s12s4-0990,x_source
+fix,E_s12s4-0991,x_source
+fix,E_s12s4-0989,x_source
+fix,E_s12s4-0988,x_source
+fix,E_s12s4-0987,x_source
+fix,E_s12s4-0986,x_source
+fix,E_s12s4-0985,x_source
+fix,E_s12s4-0201,x_label
+fix,E_s12s4-0201,y_label
+fix,E_s12s4-0201,x_sub
+fix,E_s12s4-0125,x_label
+fix,E_s12s4-0125,y_label
+fix,E_s12s4-0396,primary
+fix,E_s12s4-0397,primary
+exclude,C_s3s4-142,verify
+exclude,C_s3s4-141,verify
+exclude,C_s3s4-140,verify
+exclude,C_s3s4-139,verify
+exclude,A1_demog-121,unsure rule
+exclude,A1_demog-122,unsure rule
+exclude,A1_demog-123,unsure rule
+exclude,A1_demog-124,unsure rule
+exclude,A1_demog-125,unsure rule
+exclude,A1_demog-129,unsure rule
+exclude,A1_demog-130,unsure rule
+exclude,A1_demog-266,unsure rule
+exclude,A1_demog-268,unsure rule
+exclude,A2_s1other-0283,unsure rule
+exclude,A2_s1other-0284,unsure rule
+exclude,A2_s1other-0376,unsure rule
+exclude,A2_s1other-0377,unsure rule
+exclude,A2_s1other-0378,unsure rule
+exclude,A2_s1other-0379,unsure rule
+exclude,A2_s1other-0383,unsure rule
+exclude,A2_s1other-0384,unsure rule
+exclude,A2_s1other-0385,unsure rule
+exclude,A2_s1other-0386,unsure rule
+exclude,A2_s1other-0387,unsure rule
+exclude,A2_s1other-0388,unsure rule
+exclude,A2_s1other-0389,unsure rule
+exclude,A2_s1other-0390,unsure rule
+exclude,A2_s1other-0391,unsure rule
+exclude,A2_s1other-0392,unsure rule
+exclude,A2_s1other-0393,unsure rule
+exclude,A2_s1other-0394,unsure rule
+exclude,A2_s1other-0395,unsure rule
+exclude,A2_s1other-0396,unsure rule
+exclude,A2_s1other-0397,unsure rule
+exclude,A2_s1other-0398,unsure rule
+exclude,A2_s1other-0399,unsure rule
+exclude,A2_s1other-0403,unsure rule
+exclude,A2_s1other-0404,unsure rule
+exclude,A2_s1other-0405,unsure rule
+exclude,A2_s1other-0406,unsure rule
+exclude,A2_s1other-0608,unsure rule
+exclude,A2_s1other-0610,unsure rule
+exclude,A2_s1other-0651,unsure rule
+exclude,B1_s2core-002,unsure rule
+exclude,B1_s2core-004,unsure rule
+exclude,B1_s2core-006,unsure rule
+exclude,B1_s2core-008,unsure rule
+exclude,B1_s2core-010,unsure rule
+exclude,B1_s2core-012,unsure rule
+exclude,B1_s2core-014,unsure rule
+exclude,B1_s2core-257,unsure rule
+exclude,B1_s2core-259,unsure rule
+exclude,B1_s2core-260,unsure rule
+exclude,B2_s2other-0348,unsure rule
+exclude,B2_s2other-0350,unsure rule
+exclude,B2_s2other-0352,unsure rule
+exclude,B2_s2other-0354,unsure rule
+exclude,B2_s2other-0356,unsure rule
+exclude,B2_s2other-0358,unsure rule
+exclude,B2_s2other-0360,unsure rule
+exclude,B2_s2other-0362,unsure rule
+exclude,B2_s2other-0380,unsure rule
+exclude,B2_s2other-0381,unsure rule
+exclude,B2_s2other-0383,unsure rule
+exclude,B2_s2other-0385,unsure rule
+rule_nodir,A2_s1other-0507,
+rule_nodir,B2_s2other-0014,
+rule_nodir,B2_s2other-0015,
+rule_nodir,B2_s2other-0016,
+rule_nodir,B2_s2other-0017,
+rule_nodir,B2_s2other-0018,
+rule_nodir,B2_s2other-0019,
+rule_nodir,B2_s2other-0020,
+rule_nodir,B2_s2other-0110,
+rule_nodir,B2_s2other-0172,
+rule_nodir,B2_s2other-0173,
+rule_nodir,B2_s2other-0174,
+rule_nodir,B2_s2other-0175,
+rule_nodir,B2_s2other-0176,
+rule_nodir,B2_s2other-0177,
+rule_nodir,B2_s2other-0178,
+rule_nodir,B2_s2other-0179,
+rule_nodir,B2_s2other-0180,
+rule_nodir,B2_s2other-0181,
+rule_nodir,B2_s2other-0182,
+rule_nodir,B2_s2other-0183,
+rule_nodir,B2_s2other-0184,
+rule_nodir,B2_s2other-0185,
+rule_nodir,B2_s2other-0186,
+rule_nodir,B2_s2other-0187,
+rule_nodir,B2_s2other-0188,
+rule_nodir,B2_s2other-0189,
+rule_nodir,B2_s2other-0190,
+rule_nodir,B2_s2other-0191,
+rule_nodir,B2_s2other-0192,
+rule_nodir,B2_s2other-0193,
+rule_nodir,B2_s2other-0194,
+rule_nodir,B2_s2other-0195,
+rule_nodir,B2_s2other-0196,
+rule_nodir,B2_s2other-0197,
+rule_nodir,B2_s2other-0198,
+rule_nodir,B2_s2other-0199,
+rule_nodir,B2_s2other-0200,
+rule_nodir,B2_s2other-0201,
+rule_nodir,B2_s2other-0202,
+rule_nodir,B2_s2other-0203,
+rule_nodir,B2_s2other-0204,
+rule_nodir,B2_s2other-0205,
+rule_nodir,B2_s2other-0206,
+rule_nodir,B2_s2other-0207,
+rule_nodir,B2_s2other-0213,
+rule_nodir,B2_s2other-0214,
+rule_nodir,B2_s2other-0215,
+rule_nodir,B2_s2other-0216,
+rule_nodir,B2_s2other-0217,
+rule_nodir,B2_s2other-0218,
+rule_nodir,B2_s2other-0219,
+rule_nodir,B2_s2other-0220,
+rule_nodir,B2_s2other-0221,
+rule_nodir,B2_s2other-0222,
+rule_nodir,B2_s2other-0223,
+rule_nodir,B2_s2other-0224,
+rule_nodir,B2_s2other-0225,
+rule_nodir,B2_s2other-0226,
+rule_nodir,B2_s2other-0227,
+rule_nodir,B2_s2other-0228,
+rule_nodir,B2_s2other-0229,
+rule_nodir,B2_s2other-0230,
+rule_nodir,B2_s2other-0231,
+rule_nodir,B2_s2other-0232,
+rule_nodir,C_s3s4-045,
+rule_perunit,C_s3s4-100,
+rule_perunit,C_s3s4-101,
+rule_perunit,C_s3s4-125,
+rule_perunit,C_s3s4-126,
+rule_perunit,C_s3s4-127,
+rule_perunit,C_s3s4-128,
+rule_perunit,C_s3s4-133,
+rule_perunit,C_s3s4-134,
+rule_perunit,C_s3s4-135,
+rule_perunit,C_s3s4-136,
+rule_perunit,C_s3s4-137,
+rule_perunit,C_s3s4-138,
+rule_perunit,C_s3s4-150,
+rule_perunit,C_s3s4-152,
+rule_perunit,C_s3s4-154,
+rule_perunit,C_s3s4-156,
+rule_perunit,C_s3s4-158,
+rule_perunit,C_s3s4-160,
+rule_perunit,E_s12s4-0291,
+rule_perunit,E_s12s4-0292,
+rule_perunit,E_s12s4-0293,
+rule_perunit,E_s12s4-0294,
+rule_perunit,E_s12s4-0295,
+rule_perunit,E_s12s4-0296,
+rule_perunit,E_s12s4-0297,
+rule_perunit,E_s12s4-0298,
+rule_perunit,E_s12s4-0299,
+rule_perunit,E_s12s4-0300,
+rule_perunit,E_s12s4-0301,
+rule_perunit,E_s12s4-0302,
+rule_perunit,E_s12s4-0303,
+rule_perunit,E_s12s4-0304,
+rule_perunit,E_s12s4-0305,
+rule_perunit,E_s12s4-0306,
+rule_perunit,E_s12s4-0307,
+rule_perunit,E_s12s4-0308,
+rule_perunit,E_s12s4-0309,
+rule_perunit,E_s12s4-0310,
+rule_perunit,E_s12s4-0311,
+rule_perunit,E_s12s4-0312,
+rule_perunit,E_s12s4-0313,
+rule_perunit,E_s12s4-0314,
+rule_perunit,E_s12s4-0315,
+rule_perunit,E_s12s4-0316,
+rule_perunit,E_s12s4-0317,
+rule_perunit,E_s12s4-0318,

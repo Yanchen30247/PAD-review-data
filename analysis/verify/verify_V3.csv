@@ -1,0 +1,519 @@
+﻿es_id,verdict,field,current_value,correct_value,evidence,comment
+C_s3s4-241,ok,,,,raw_data.md L45369 (PeekAsa2010-Table3),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-239,ok,,,,raw_data.md L45121,"Cells re-derived: 27,759 x 41.38% = 11,486.7; 9,581 x 35.16% = 3,368.7 (raw_data.md L45121). The violation set includes drunk driving and is a police-recorded violation for the crash, so V_SCALE is a broad code; the crash measure itself (serious injury or fatality) contains no tickets."
+C_s3s4-242,ok,,,,raw_data.md L45367 (PeekAsa2010-Table3),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-227,ok,,,,effects.md L16367,"Adjusted OR from the multi-vehicle truck model (coded 1 = did not follow the limit); no crude estimate is printed, so primary=yes is right. Value verified."
+C_s3s4-243,ok,,,,raw_data.md L45366 (PeekAsa2010-Table3),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-244,ok,,,,raw_data.md L45369 (PeekAsa2010-Table3),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-245,ok,,,,raw_data.md L45366 (PeekAsa2010-Table3),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-223,ok,,,,raw_data.md L36686 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-184,ok,,,,effects.md L16940 (DotseRowe2021_GhanaDBQ-R03-C01),r = 0.31 matches the cited row; sign_x = 1 and direction verified; N = 453
+C_s3s4-202,ok,,,,raw_data.md L34553 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-204,ok,,,,raw_data.md L34557-34560,"Song2020 Table 2 cells re-derived: 706 crashes (FI 37, NI/NP 338, N 331); reference = all other crashes (column totals FI 634, NI/NP 5,764, N 11,948). Matches."
+C_s3s4-222,ok,,,,raw_data.md L36686 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-221,ok,,,,raw_data.md L36684 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-220,ok,,,,raw_data.md L36684 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-219,ok,,,,raw_data.md L36683 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-218,ok,,,,raw_data.md L36683 (Nanthawong2025-T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-217,ok,,,,raw_data.md L34593 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-216,ok,,,,raw_data.md L34593 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-215,ok,,,,raw_data.md L34581 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-214,ok,,,,raw_data.md L34581 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-213,ok,,,,raw_data.md L34577 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-212,ok,,,,raw_data.md L34577 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-211,ok,,,,raw_data.md L34573 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-210,ok,,,,raw_data.md L34573 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-209,ok,,,,raw_data.md L34565 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-208,ok,,,,raw_data.md L34565,Failure to reduce speed is a police contributing-action category (not exceeding the limit); V coding is the extractor choice. Cells re-derived and match.
+C_s3s4-206,ok,,,,raw_data.md L34561 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-205,ok,,,,raw_data.md L34557 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-203,ok,,,,raw_data.md L34553 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-322,unsure,x_code,NV_SCALE,V_SCALE (or AGG_CODE),raw_data.md L39405; L39397,"Blocking another vehicle from changing lanes is a deliberate vehicle movement that obstructs another driver; coded NV_SCALE (no separate code). Under the protocol (V = rule-breaking vehicle movement) V_SCALE or AGG_CODE may fit better. Cells re-derived from weighted % x group n and match (a=85.9, b=561.4)."
+C_s3s4-325,unsure,x_code,NV_SCALE,V_SCALE (or AGG_CODE),raw_data.md L39408; L39400,"Deliberately bumping or ramming another vehicle is a rule-breaking vehicle movement (violent); coded NV_SCALE. V_SCALE or AGG_CODE may fit better. Cells re-derived and match (a=6.8, b=66.6). Only 2-3% prevalence, so cells are small."
+C_s3s4-324,ok,,,,raw_data.md L39407 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-323,ok,,,,raw_data.md L39406 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-321,ok,,,,raw_data.md L39404 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-320,ok,,,,raw_data.md L39403 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-319,ok,,,,raw_data.md L39402 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-318,ok,,,,raw_data.md L39401 (AAA2016 behavior x crash table),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-340,fix,x_code,V_SCALE,MIXED_SCALE,raw_data.md L44599 (Risky-14 item list),"The 14-item score includes rude gestures and horn or lights in anger (NV acts) together with speeding, tailgating and racing (V acts), plus passengers, loud music, phone and seat belt items; Mixed is the protocol code for a scale combining V and NV items"
+C_s3s4-339,fix,x_code,V_SCALE,MIXED_SCALE,raw_data.md L44599 (Risky-14 item list),"The 14-item score includes rude gestures and horn or lights in anger (NV acts) together with speeding, tailgating and racing (V acts), plus passengers, loud music, phone and seat belt items; Mixed is the protocol code for a scale combining V and NV items"
+C_s3s4-337,ok,,,,raw_data.md L43573 (Stephens2025_DAX crash 12m group table),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-336,ok,,,,raw_data.md L43572 (Stephens2025_DAX crash 12m group table),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-335,ok,,,,raw_data.md L43571 (Stephens2025_DAX crash 12m group table),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-334,ok,,,,raw_data.md L43570 (Stephens2025_DAX crash 12m group table),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-309,ok,,,,effects.md L17575 (ATRI2022-A-34),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-308,ok,,,,effects.md L17574 (ATRI2022-A-33),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-307,ok,,,,effects.md L17571 (ATRI2022-A-30),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-306,ok,,,,effects.md L17570 (ATRI2022-A-29),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-283,ok,,,,raw_data.md L47418 (Table 1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-282,ok,,,,raw_data.md L47107 (Evans1982-Table2),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-285,ok,,,,raw_data.md L47448 (Table 1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-288,ok,,,,effects.md L17550 (ATRI2022-A-09),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-305,ok,,,,effects.md L17569 (ATRI2022-A-28),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-304,ok,,,,effects.md L17568 (ATRI2022-A-27),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-303,ok,,,,effects.md L17567 (ATRI2022-A-26),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-302,ok,,,,effects.md L17566 (ATRI2022-A-25),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-301,ok,,,,effects.md L17565 (ATRI2022-A-24),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-300,ok,,,,effects.md L17564 (ATRI2022-A-23),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-299,ok,,,,effects.md L17563 (ATRI2022-A-22),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-298,ok,,,,effects.md L17562 (ATRI2022-A-21),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-297,ok,,,,effects.md L17561 (ATRI2022-A-20),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-296,ok,,,,effects.md L17560 (ATRI2022-A-19),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-295,ok,,,,effects.md L17559 (ATRI2022-A-18),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-294,ok,,,,effects.md L17548 (ATRI2022-A-07),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-293,ok,,,,effects.md L17557 (ATRI2022-A-16),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-292,ok,,,,effects.md L17554 (ATRI2022-A-13),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-291,ok,,,,effects.md L17553 (ATRI2022-A-12),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-290,ok,,,,effects.md L17552 (ATRI2022-A-11),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-289,ok,,,,effects.md L17551 (ATRI2022-A-10),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-287,ok,,,,effects.md L17549 (ATRI2022-A-08),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-182,ok,,,,effects.md L16454 (Sullman2002_NZtruck-S1-C09-08),r = 0.045 matches the cited row; sign_x = 1 and direction verified; N = 378
+C_s3s4-207,ok,,,,raw_data.md L34561 (Song2020-T2 Contribution),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-180,ok,,,,effects.md L16452 (Sullman2002_NZtruck-S1-C09-06),r = 0.202 matches the cited row; sign_x = 1 and direction verified; N = 378
+C_s3s4-068,ok,,,,raw_data.md L7203 (F1 (Fig. 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-067,ok,,,,raw_data.md L7203 (F1 (Fig. 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-072,ok,,,,raw_data.md L7406 (Table 3 (bus)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-073,ok,,,,raw_data.md L7404 (Table 3 (bus)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-074,ok,,,,raw_data.md L7441 (Table 3 (truck)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-075,ok,,,,raw_data.md L7439 (Table 3 (truck)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-092,ok,,,,effects.md L7143,"Risky driving scale (18 items) includes drunk driving and seat-belt items, so V_SCALE is a broad composite. r verified."
+C_s3s4-091,ok,,,,raw_data.md L10599 (CT-01 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-090,ok,,,,raw_data.md L10599 (CT-01 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-088,ok,,,,effects.md L6150 (S1-129),r = 0.07 matches the cited row; sign_x = 1 and direction verified; N = 439
+C_s3s4-086,ok,,,,effects.md L6087 (S1-128),r = 0.19 matches the cited row; sign_x = 1 and direction verified; N = 412
+C_s3s4-084,ok,,,,effects.md L6024 (S1-127),r = 0.28 matches the cited row; sign_x = 1 and direction verified; N = 435
+C_s3s4-077,ok,,,,raw_data.md L7474 (Table 3 (trailer)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-076,ok,,,,raw_data.md L7476 (Table 3 (trailer)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-030,ok,,,,raw_data.md L4400,"Value matches Fig 2 (OR 34.8, 17.2-70.5). Event-level naturalistic OR; mixed logistic single-factor model."
+C_s3s4-029,unsure,,,,raw_data.md L4399,"Umbrella category ""Driver judgment error: Overall"" (the printed category label is a placeholder ""@3""); it contains the speeding, passing, following, intentional-violation rows and aggressive driving rows extracted separately, so the same crash events enter twice. Value 11.1 (9.0-13.8) is correct. Keep only one of umbrella or components in pooled models."
+C_s3s4-024,ok,,,,effects.md L1328 (S1-028),r = 0.15 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-023,ok,,,,effects.md L1327 (S1-027),r = 0.23 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-022,ok,,,,effects.md L1324 (S1-024),r = 0 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-021,ok,,,,effects.md L1323 (S1-023),r = 0.12 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-020,ok,,,,effects.md L1319 (S1-019),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-019,ok,,,,effects.md L1318 (S1-018),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-018,ok,,,,effects.md L1313 (S1-013),r = 0.13 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-017,ok,,,,effects.md L1312 (S1-012),r = 0.17 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-016,ok,,,,effects.md L1306 (S1-006),r = 0.16 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-015,ok,,,,effects.md L1305 (S1-005),r = 0.25 matches the cited row; sign_x = 1 and direction verified; N = 428
+C_s3s4-031,ok,,,,raw_data.md L4401 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-093,ok,,,,effects.md L7144 (S1-014),r = 0.09 matches the cited row; sign_x = 1 and direction verified; N = 366
+C_s3s4-032,ok,,,,raw_data.md L4402 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-034,ok,,,,raw_data.md L4404 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-048,ok,,,,raw_data.md L6034 (tab1 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-047,ok,,,,raw_data.md L6035 (tab1 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-046,ok,,,,raw_data.md L6033 (tab1 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-045,ok,,,,raw_data.md L5636-5637; effects.md L3530,"Extreme-group design (n=17 per group; dangerous = >=6 penalty points, groups also differ on DDDI). Means/SDs and t(32)=3.236 verified (pooled-SD check gives t=3.24). Penalty points are an x measure from traffic records, not part of the crash measure."
+C_s3s4-039,ok,,,,effects.md L2410,RD is an adapted DBQ with violation and error items (alpha .87); coded V_SCALE here but the analogous Ghana violation+error factor (C_s3s4-184) is coded MIXED_SCALE. Keep one convention. r=.290 verified.
+C_s3s4-038,unsure,,,,raw_data.md L4394,"Stop/yield sign violation is listed under Driver Performance Error (unintended); same printed OR is E_s12s4-0743 (ERR_LAPSE, S2u). Same statistic coded under two stages. Value 7.4 (4.9-11.4) is correct."
+C_s3s4-037,unsure,,,,raw_data.md L4393,"Signal violation is listed in SHRP2 Fig 2 under Driver Performance Error (unintended error), and the same printed OR is extracted as E_s12s4-0742 (ERR_LAPSE, S2u). Same statistic coded under two stages. Value 28.3 (15.9-50.2) is correct."
+C_s3s4-036,ok,,,,raw_data.md L4406 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-035,ok,,,,raw_data.md L4405 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-033,ok,,,,raw_data.md L4403 (rawtable-1 (Fig. 2)),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-094,ok,,,,effects.md L7145 (S1-015),r = 0.09 matches the cited row; sign_x = 1 and direction verified; N = 366
+C_s3s4-096,ok,,,,effects.md L7147 (S1-017),r = 0.13 matches the cited row; sign_x = 1 and direction verified; N = 366
+C_s3s4-153,ok,,,,effects.md L13470 (S1-104),r = 0.312 matches the cited row; sign_x = 1 and direction verified; N = 623
+C_s3s4-151,ok,,,,effects.md L13467 (S1-101),r = 0.119 matches the cited row; sign_x = 1 and direction verified; N = 623
+C_s3s4-149,ok,,,,effects.md L13466 (S1-100),r = 0.151 matches the cited row; sign_x = 1 and direction verified; N = 623
+C_s3s4-143,ok,,,,raw_data.md L28356 (GD-031..GD-034 (Table 1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-142,exclude,,,,"effects.md L13144; raw_data.md Wedagama2018 measures m-overtake, m-gap","Wrong stage and duplicate. The source defines this item as a risky-overtaking or close-following attitude (measure m-overtake / m-gap, review role stage2_perception), not an S3 behavior, and the identical printed Exp(B) is already extracted as E_s12s4-0316 (ATTITUDE, S2i). Keep only the E row."
+C_s3s4-141,exclude,,,,"effects.md L13078; raw_data.md Wedagama2018 measures m-overtake, m-gap","Wrong stage and duplicate. The source defines this item as a risky-overtaking or close-following attitude (measure m-overtake / m-gap, review role stage2_perception), not an S3 behavior, and the identical printed Exp(B) is already extracted as E_s12s4-0304 (ATTITUDE, S2i). Keep only the E row."
+C_s3s4-140,exclude,,,,"effects.md L13143; raw_data.md Wedagama2018 measures m-overtake, m-gap","Wrong stage and duplicate. The source defines this item as a risky-overtaking or close-following attitude (measure m-overtake / m-gap, review role stage2_perception), not an S3 behavior, and the identical printed Exp(B) is already extracted as E_s12s4-0315 (ATTITUDE, S2i). Keep only the E row."
+C_s3s4-139,exclude,,,,"effects.md L13077; raw_data.md Wedagama2018 measures m-overtake, m-gap","Wrong stage and duplicate. The source defines this item as a risky-overtaking or close-following attitude (measure m-overtake / m-gap, review role stage2_perception), not an S3 behavior, and the identical printed Exp(B) is already extracted as E_s12s4-0303 (ATTITUDE, S2i). Keep only the E row."
+C_s3s4-161,ok,,,,effects.md L14284 (S1-0167),r = 0.13 matches the cited row; sign_x = 1 and direction verified; N = 302
+C_s3s4-162,ok,,,,effects.md L14285 (S1-0168),r = 0.15 matches the cited row; sign_x = 1 and direction verified; N = 302
+C_s3s4-179,ok,,,,effects.md L15779 (Davey2007-E34),r = -0.04 matches the cited row; sign_x = 1 and direction verified; N = 443
+C_s3s4-095,ok,,,,effects.md L7146 (S1-016),r = 0.07 matches the cited row; sign_x = 1 and direction verified; N = 366
+C_s3s4-178,ok,,,,effects.md L15777 (Davey2007-E32),r = -0.04 matches the cited row; sign_x = 1 and direction verified; N = 443
+C_s3s4-177,ok,,,,effects.md L15606,"Zero-order (rank-transformed) column, not the adjacent partial correlation (L15607). Non-speeding component mixes angry pursuit, red light and texting items, so MIXED_SCALE is right."
+C_s3s4-176,ok,,,,effects.md L15602 (Sahebi2019-T4-167),r = 0.04 matches the cited row; sign_x = 1 and direction verified; N = 712
+C_s3s4-175,ok,,,,effects.md L15594 (Sahebi2019-T4-159),r = 0.19 matches the cited row; sign_x = 1 and direction verified; N = 712
+C_s3s4-174,ok,,,,effects.md L15590 (Sahebi2019-T4-155),r = 0.14 matches the cited row; sign_x = 1 and direction verified; N = 712
+C_s3s4-169,unsure,,,,"effects.md L15354, conflict C4","The source sentence for the past-year comparison is contradictory (""below mean 2.21 times more likely than at-or-below mean"", conflict WellsParker2002-C4). The extraction reads it as above vs at-or-below the mean; if the wording ""below"" is literal the sign would reverse. Ratio type and adjustment are not stated. Value 2.21 (1.53-3.19) matches the source."
+C_s3s4-168,ok,,,,effects.md L15355,"Direction is explicit in the source (above the gender mean 1.51 times more likely, 95% CI 1.17-1.94). Ratio type (OR or risk ratio) and adjustment are not stated; entered as crude OR as flagged by the extractor."
+C_s3s4-167,ok,,,,effects.md L15231 (S1-0048),r = 0.17 matches the cited row; sign_x = 1 and direction verified; N = 67
+C_s3s4-166,ok,,,,effects.md L15234 (S1-0051),r = 0.18 matches the cited row; sign_x = 1 and direction verified; N = 67
+C_s3s4-165,ok,,,,effects.md L15233 (S1-0050),r = 0.04 matches the cited row; sign_x = 1 and direction verified; N = 67
+C_s3s4-164,ok,,,,effects.md L15237 (S1-0054),r = 0.31 matches the cited row; sign_x = 1 and direction verified; N = 67
+C_s3s4-163,ok,,,,effects.md L15236 (S1-0053),r = 0.39 matches the cited row; sign_x = 1 and direction verified; N = 67
+C_s3s4-138,ok,,,,effects.md L13141 (S1-058),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-137,ok,,,,effects.md L13075 (S1-024),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-135,ok,,,,effects.md L13073 (S1-020),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-113,ok,,,,effects.md L10263 (S1-068),r = 0.13 matches the cited row; sign_x = 1 and direction verified; N = 297
+C_s3s4-112,ok,,,,effects.md L10271 (S1-076),r = 0.096 matches the cited row; sign_x = 1 and direction verified; N = 297
+C_s3s4-111,ok,,,,effects.md L10270 (S1-075),r = 0.062 matches the cited row; sign_x = 1 and direction verified; N = 297
+C_s3s4-110,ok,,,,raw_data.md L16193-16194; effects.md L9734,"n2 = 1322 is derived from df (1442 + 2 - 122) because the no-RTC n is not printed, so the status is partly computed; means, SDs and t = 3.16 are verified (re-computed t = 3.1)."
+C_s3s4-107,ok,,,,effects.md L8710 (S1-051),r = 0.22 matches the cited row; sign_x = 1 and direction verified; N = 295
+C_s3s4-106,ok,,,,effects.md L8713 (S1-054),r = 0.267 matches the cited row; sign_x = 1 and direction verified; N = 295
+C_s3s4-105,ok,,,,effects.md L8712 (S1-053),r = 0.133 matches the cited row; sign_x = 1 and direction verified; N = 295
+C_s3s4-102,ok,,,,raw_data.md L13072 (t41 (Table 4.1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-101,ok,,,,effects.md L7818,Component labelled Ordinary violation mixes error and violation items; MIXED_SCALE is a defensible code. Adjusted OR; sample selected on booked vs never booked.
+C_s3s4-100,ok,,,,effects.md L7817,"Component labelled Aggressive violation but items are mostly rule-breaking acts plus one hostility item; MIXED_SCALE is a defensible code. Adjusted OR (components entered together with demographics); no crude estimate printed. Sample is half drivers booked for offences, half never booked (selection on citation status)."
+C_s3s4-097,ok,,,,effects.md L7148 (S1-018),r = 0.11 matches the cited row; sign_x = 1 and direction verified; N = 366
+C_s3s4-136,ok,,,,effects.md L13139 (S1-054),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-098,ok,,,,effects.md L7296 (S1-041),r = 0.17 matches the cited row; sign_x = 1 and direction verified; N = 555
+C_s3s4-103,ok,,,,raw_data.md L13072 (t41 (Table 4.1)),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+C_s3s4-128,ok,,,,effects.md L11632,Same model and outcome as C_s3s4-127. OR 6.47 (2.05-20.46) verified.
+C_s3s4-127,ok,,,,effects.md L11628,"Per-unit OR of an orthogonal PCA component from a model with all five DBQ components (adjusted=yes is formally right, but orthogonal scores make it close to crude). Outcome groups (high/moderate n=31 vs low n=26) are K-means groups of naturalistic crash plus near-crash rates, so NEAR_CRASH is a mixed crash/near-crash code. OR 9.60 (2.21-41.61) verified."
+C_s3s4-123,unsure,,,,raw_data.md L20839-20840; effects.md L11425,"The x variable is a single-item self-rating of compliance with traffic rules (recoded to 3 categories in Study 1), a global self-appraisal rather than a behavior frequency scale. Coded as V_SCALE (reversed). Means, SDs and t = -10.6 verified (re-computed t = 10.5). The methods text of the paper describes the y item as participation in road accidents due to the driver fault (confirmed in the PDF), so y is right. The parent should decide whether a self-rated compliance item counts as an S3 behavior."
+C_s3s4-119,ok,,,,raw_data.md L19851 (Table 3 (S1); effects S1-004),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-124,unsure,,,,raw_data.md L20843-20844; effects.md L11436,"Same single-item compliance rating as C_s3s4-123 (1-10 scale in Study 2). Means, SDs and t = -4.34 verified (re-computed 4.31)."
+C_s3s4-120,ok,,,,raw_data.md L19855 (Table 3 (S1); effects S1-006),"Means, SDs and group sizes match the source; group 1 and sign verified"
+C_s3s4-133,ok,,,,effects.md L13071 (S1-016),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-134,ok,,,,effects.md L13137 (S1-050),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+C_s3s4-122,ok,,,,raw_data.md L19870-19871; effects.md L11283,Study 2 (n=29 crash drivers). Group means and SDs verified (GD-027/GD-028). Printed Mann-Whitney effect size r = 0.02; means-based conversion gives r about 0.05.
+C_s3s4-121,ok,,,,raw_data.md L19866-19867; effects.md L11282,"Study 2 (12-month crash, n=29 crash drivers). Group means and SDs verified (GD-023/GD-024). The paper also prints a Mann-Whitney effect size r = 0.04 (used by the MASEM and by E_s12s4-0178/0187 for the other Study 2 scales); the means-based conversion gives r about 0.05, so the two conventions agree closely."
+E_s12s4-0761,ok,,,,raw_data.md L4420 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0760,ok,,,,raw_data.md L4419 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0759,ok,,,,raw_data.md L4418 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0758,unsure,,,,raw_data.md L4417,"Composite ""Total cell (handheld)"" of browse, dial, reach, text and talk rows extracted separately. Value 3.6 (2.9-4.5) is correct."
+E_s12s4-0757,ok,,,,raw_data.md L4416 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0756,ok,,,,raw_data.md L4415 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0755,ok,,,,raw_data.md L4414 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0754,ok,,,,raw_data.md L4413 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0752,unsure,,,,raw_data.md L4411,"Composite ""Total in-vehicle device"" of the radio, climate control and other-device rows extracted separately. Value 2.5 (1.8-3.4) is correct."
+E_s12s4-0751,ok,,,,raw_data.md L4410 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0748,unsure,,,,raw_data.md L4407,"Umbrella ""Observable distraction: Overall"" contains the specific distraction rows extracted separately (same events). Value 2.0 (1.8-2.4) is correct."
+E_s12s4-0750,ok,,,,raw_data.md L4409 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0749,ok,,,,raw_data.md L4408 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0753,ok,,,,raw_data.md L4412 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0763,ok,,,,raw_data.md L4422 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0747,ok,,,,raw_data.md L4398 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0762,ok,,,,raw_data.md L4421 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0768,ok,,,,"effects.md L17616 (Demographic crash correlations, Table 2: Number of daily trips)",r = 0.183 matches the cited row; sign_x = 1 and direction verified; N = 824
+E_s12s4-0767,ok,,,,raw_data.md L4426 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0766,ok,,,,raw_data.md L4425 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0765,ok,,,,raw_data.md L4424 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0764,ok,,,,raw_data.md L4423 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0746,ok,,,,raw_data.md L4397 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0727,fix,or_lo,(blank),0.5,effects.md L11601,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0727,fix,or_hi,(blank),2.77,effects.md L11601,95% CI is printed in the cited row but was not entered
+E_s12s4-0744,ok,,,,raw_data.md L4395 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0722,ok,,,,effects.md L8711,"DDDI negative cognitive/emotional subscale mixes anger with other negative emotions and cognitions; ANGER is an approximate code (same for E_s12s4-0421, E_s12s4-0361). r verified."
+E_s12s4-0715,ok,,,,effects.md L7827 (S1-074),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0714,ok,,,,effects.md L7826 (S1-072),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0713,ok,,,,effects.md L7825 (S1-070),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0712,ok,,,,effects.md L7824 (S1-068),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0745,ok,,,,raw_data.md L4396 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0729,fix,or_lo,(blank),0.3,effects.md L11603,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0729,fix,or_hi,(blank),1.82,effects.md L11603,95% CI is printed in the cited row but was not entered
+E_s12s4-0743,ok,,,,raw_data.md L4394,"Same printed OR as C_s3s4-038 (coded SIGNAL, S3). S2u coding follows the SHRP2 category (performance error); the parent should use only one of the two rows."
+E_s12s4-0742,ok,,,,raw_data.md L4393,"Same printed OR as C_s3s4-037 (coded SIGNAL, S3). S2u coding follows the SHRP2 category (performance error); the parent should use only one of the two rows."
+E_s12s4-0741,ok,,,,raw_data.md L4392 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0740,ok,,,,raw_data.md L4391 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0739,ok,,,,raw_data.md L4390 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0738,ok,,,,raw_data.md L4389 (rawtable-1),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0728,fix,or_lo,(blank),1.45,effects.md L11602,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0728,fix,or_hi,(blank),15.59,effects.md L11602,95% CI is printed in the cited row but was not entered
+E_s12s4-0737,unsure,,,,raw_data.md L4388,"Umbrella ""Performance error: Overall"" contains the 11 specific error rows extracted separately (same crash events). Value 18.2 (14.8-22.3) is correct."
+E_s12s4-0735,unsure,,,,effects.md L2324,"Source category is ""Emotion (anger, sadness, crying, and/or emotional agitation)""; ANGER is only the most frequent member. Value 9.8 (5.0-19.0) is correct. Consider PSY_OTHER (observed emotion) instead of ANGER."
+E_s12s4-0734,ok,,,,effects.md L2323 (S1-002),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0733,ok,,,,effects.md L2322 (S1-001),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0732,fix,or_lo,(blank),0.97,effects.md L11631,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0732,fix,or_hi,(blank),5.84,effects.md L11631,95% CI is printed in the cited row but was not entered
+E_s12s4-0731,fix,or_lo,(blank),0.55,effects.md L11630,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0731,fix,or_hi,(blank),2.34,effects.md L11630,95% CI is printed in the cited row but was not entered
+E_s12s4-0730,fix,or_lo,(blank),0.14,effects.md L11629,95% CI is printed in the cited row but was not entered; without it the row has no log-OR variance
+E_s12s4-0730,fix,or_hi,(blank),1.04,effects.md L11629,95% CI is printed in the cited row but was not entered
+E_s12s4-0736,unsure,,,,effects.md L2325,"Composite of drug/alcohol (S1), fatigue (S2u) and emotion (S2i) that overlaps three other rows; S2i/PSY_OTHER does not describe it. Value 5.2 (3.8-7.1) is correct. Drop from pooled models or keep as sensitivity row."
+E_s12s4-0711,ok,,,,effects.md L7823 (S1-066),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0710,ok,,,,effects.md L7822 (S1-064),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0708,ok,,,,effects.md L7819 (S1-058),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0626,ok,,,,effects.md L15610 (Sahebi2019-T4-175),r = 0.11 matches the cited row; sign_x = 1 and direction verified; N = 712
+E_s12s4-0625,ok,,,,effects.md L15598 (Sahebi2019-T4-163),r = 0.15 matches the cited row; sign_x = 1 and direction verified; N = 712
+E_s12s4-0623,ok,,,,raw_data.md L2571,"Cluster x is defined by attitude and personality factors that include self-reported speeding propensity and aberrant driving, so the x construct is partly S3; clusters C2-C4 pooled by the extractor (weighted mean 25.66%, correct). Crash item is lifetime self-report."
+E_s12s4-0600,ok,,,,effects.md L14288 (S1-0171),r = 0.06 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0599,ok,,,,effects.md L14282 (S1-0165),r = 0.09 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0598,ok,,,,effects.md L14281 (S1-0164),r = 0.07 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0597,ok,,,,"raw_data.md Yu2022 measures M-sp, M-efi; effects.md L14279","Source defines SP as strategic planning (adaptation note: organization 3, impulse control 2, strategic planning 2 items), while x_sub says EF_SHIFTING; the sign (-1, higher EFI = better) and r are right. Label only."
+E_s12s4-0596,ok,,,,effects.md L14278 (S1-0161),r = -0.12 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0595,ok,,,,effects.md L14277 (S1-0160),r = -0.01 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0594,ok,,,,effects.md L14276 (S1-0159),r = -0.08 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0593,ok,,,,effects.md L14273 (S1-0156),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0709,unsure,,,,effects.md L7820,Age OR is internally inconsistent in the source: printed B = -0.01 (p = 0.024) but OR = 1.01 (0.98-1.05). The sign of the per-year age effect cannot be fixed from the source; the effect is about 0 either way. Treat as unreliable or drop.
+E_s12s4-0680,ok,,,,raw_data.md L7405 (G030/G035),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0681,ok,,,,raw_data.md L7407 (G032/G037),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0682,ok,,,,raw_data.md L7440 (G065/G070),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0683,ok,,,,raw_data.md L7442 (G067/G072),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0684,ok,,,,raw_data.md L7475 (G100/G105),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0685,ok,,,,raw_data.md L7477 (G102/G107),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0686,ok,,,,"raw_data.md L7425,L7435","Very small groups (death n=4, no injury n=3); values verified (G050/G060). Low precision, flagged by extractor."
+E_s12s4-0687,ok,,,,"raw_data.md L7427,L7437","Very small groups (death n=4, no injury n=3); values verified (G052/G062)."
+E_s12s4-0688,ok,,,,"raw_data.md L7495,L7505","Small groups (death n=5, no injury n=12); values verified (G120/G130)."
+E_s12s4-0689,ok,,,,"raw_data.md L7497,L7507","Small groups (death n=5, no injury n=12); values verified (G122/G132)."
+E_s12s4-0690,ok,,,,raw_data.md L19847 (S1-002 (GD-004/GD-003)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0691,ok,,,,raw_data.md L19859 (S1-008 (GD-016/GD-015)),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0666,ok,,,,effects.md L16450 (Sullman2002_NZtruck-S1-C09-04),r = 0.041 matches the cited row; sign_x = 1 and direction verified; N = 378
+E_s12s4-0665,ok,,,,effects.md L16449 (Sullman2002_NZtruck-S1-C09-03),r = -0.121 matches the cited row; sign_x = -1 and direction verified; N = 378
+E_s12s4-1030,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1031,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1032,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1033,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1034,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1035,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1035,fix,x_code,WEEKEND,EXT_OTHER,effects.md L17190,"Contrast is a time-of-day band within weekends against Weekend 06:00-14:59 (also a weekend), so it does not estimate a weekend effect; use EXT_OTHER (time of day) like the weekday bands"
+E_s12s4-1036,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1036,fix,x_code,WEEKEND,EXT_OTHER,effects.md L17191,"Contrast is a time-of-day band within weekends against Weekend 06:00-14:59 (also a weekend), so it does not estimate a weekend effect; use EXT_OTHER (time of day) like the weekday bands"
+E_s12s4-1037,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1037,fix,x_code,WEEKEND,EXT_OTHER,effects.md L17192,"Contrast is a time-of-day band within weekends against Weekend 06:00-14:59 (also a weekend), so it does not estimate a weekend effect; use EXT_OTHER (time of day) like the weekday bands"
+E_s12s4-1038,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1038,fix,x_code,WEEKEND,EXT_OTHER,effects.md L17193,"Contrast is a time-of-day band within weekends against Weekend 06:00-14:59 (also a weekend), so it does not estimate a weekend effect; use EXT_OTHER (time of day) like the weekday bands"
+E_s12s4-1039,ok,,,,effects.md L17148,"Population-level crash rate ratio (Iowa county type vs urban county, by teen age band), unadjusted. Level other is right. Rate ratio, not driver-level risk; location has no a priori direction."
+E_s12s4-1040,ok,,,,effects.md L17149 (PeekAsa2010-E002),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1041,ok,,,,effects.md L17150 (PeekAsa2010-E003),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1042,ok,,,,effects.md L17151 (PeekAsa2010-E004),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1043,ok,,,,effects.md L17152 (PeekAsa2010-E005),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1044,ok,,,,effects.md L17153 (PeekAsa2010-E006),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1045,ok,,,,effects.md L17154 (PeekAsa2010-E007),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1046,ok,,,,effects.md L17155 (PeekAsa2010-E008),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1060,ok,,,,effects.md L16876 (Stephens2025_DAX-E017),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1059,ok,,,,effects.md L16875 (Stephens2025_DAX-E016),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1058,ok,,,,effects.md L16874 (Stephens2025_DAX-E015),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1057,ok,,,,effects.md L16873 (Stephens2025_DAX-E014),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1029,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1051,ok,,,,effects.md L16956 (Traffic-citation-12m),r = 0.16 matches the cited row; sign_x = 1 and direction verified; N = 453
+E_s12s4-1050,ok,,,,effects.md L17159 (PeekAsa2010-E012),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1049,ok,,,,effects.md L17158 (PeekAsa2010-E011),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1048,ok,,,,effects.md L17157 (PeekAsa2010-E010),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1047,ok,,,,effects.md L17156 (PeekAsa2010-E009),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1028,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1027,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1026,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1007,fix,x_source,self,objective,effects.md L17098,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1006,fix,x_source,self,objective,effects.md L17097,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1005,fix,x_source,self,objective,effects.md L17096,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1004,fix,x_source,self,objective,effects.md L17095,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1003,fix,x_source,self,objective,effects.md L17094,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1002,fix,x_source,self,objective,effects.md L17093,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1008,fix,x_source,self,objective,effects.md L17099,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1001,fix,x_source,self,objective,effects.md L17091,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0999,fix,x_source,self,objective,effects.md L17088,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0998,fix,x_source,self,objective,effects.md L17086,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0997,fix,x_source,self,objective,effects.md L17084,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0996,fix,x_source,self,objective,effects.md L17083,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0995,fix,x_source,self,objective,effects.md L17081,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0994,fix,x_source,self,objective,effects.md L17080,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1000,fix,x_source,self,objective,effects.md L17090,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1061,ok,,,,effects.md L16877 (Stephens2025_DAX-E018),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-1009,fix,x_source,self,objective,effects.md L17101,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1011,fix,x_source,self,objective,effects.md L17105,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1025,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1024,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1023,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1022,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1021,fix,x_source,self,objective,effects.md L17160-17193 (Peek-Asa Table 2/3 rows),"Age, gender, BAC and time of day come from Iowa police crash records, not self-report"
+E_s12s4-1020,fix,x_source,self,objective,effects.md L17121,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1010,fix,x_source,self,objective,effects.md L17102,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1019,fix,x_source,self,objective,effects.md L17116,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1017,fix,x_source,self,objective,effects.md L17114,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1016,fix,x_source,self,objective,effects.md L17113,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1015,fix,x_source,self,objective,effects.md L17112,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1014,fix,x_source,self,objective,effects.md L17109,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1013,fix,x_source,self,objective,effects.md L17108,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1012,fix,x_source,self,objective,effects.md L17107,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1018,fix,x_source,self,objective,effects.md L17115,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0993,fix,x_source,self,objective,effects.md L17078,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-1062,fix,x_label,Near misses (last six months),Driving time (weekly),effects.md L1332 (S1-032 pairs near misses with driving time),"x_label repeats the outcome; x_code EXPOSURE, y_code NEAR_CRASH and r are right"
+E_s12s4-1064,ok,,,,effects.md L16997,"Risk perception score: higher score = rating risky situations as safer (poorer risk perception), so sign_x=+1 is correct (verified in measure definition raw_data.md L44600). RR 1.39 (1.22-1.57) verified."
+E_s12s4-1078,fix,adjusted,yes,no,"effects.md L17484 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1078,fix,zero_order,no,yes,"effects.md L17484 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1078,fix,stat_type,OR_adj,RR_crude,"effects.md L17484 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1077,fix,primary,yes,no,effects.md L17483 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1076,fix,adjusted,yes,no,"effects.md L17482 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1076,fix,zero_order,no,yes,"effects.md L17482 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1076,fix,stat_type,OR_adj,RR_crude,"effects.md L17482 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1075,fix,primary,yes,no,effects.md L17459 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1074,fix,adjusted,yes,no,"effects.md L17458 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1074,fix,zero_order,no,yes,"effects.md L17458 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1074,fix,stat_type,OR_adj,RR_crude,"effects.md L17458 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1073,fix,primary,yes,no,effects.md L17457 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1079,fix,primary,yes,no,effects.md L17485 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1072,fix,adjusted,yes,no,"effects.md L17456 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1072,fix,zero_order,no,yes,"effects.md L17456 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1072,fix,stat_type,OR_adj,RR_crude,"effects.md L17456 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1070,fix,adjusted,yes,no,"effects.md L17452 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1070,fix,zero_order,no,yes,"effects.md L17452 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1070,fix,stat_type,OR_adj,RR_crude,"effects.md L17452 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1069,fix,primary,yes,no,effects.md L17451 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1068,fix,adjusted,yes,no,"effects.md L17450 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1068,fix,zero_order,no,yes,"effects.md L17450 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1068,fix,stat_type,OR_adj,RR_crude,"effects.md L17450 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1065,ok,,,,effects.md L17000,Same scale direction as E_s12s4-1064; RR 1.04 (0.90-1.20) verified.
+E_s12s4-1071,fix,primary,yes,no,effects.md L17453 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-1063,fix,x_label,Near misses (last six months),Driving mileage (weekly),effects.md L1333 (S1-033),x_label repeats the outcome; codes and r are right
+E_s12s4-1080,fix,adjusted,yes,no,"effects.md L17486 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Source row is the unadjusted Table 2 PR; flagged adjusted in the extraction
+E_s12s4-1080,fix,zero_order,no,yes,"effects.md L17486 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")",Unadjusted PR is the crude association
+E_s12s4-1080,fix,stat_type,OR_adj,RR_crude,"effects.md L17486 (model Blows2005-Table2-unadjusted, adjustment ""unadjusted"")","Printed metric is a prevalence ratio (PR), unadjusted"
+E_s12s4-1081,fix,primary,yes,no,effects.md L17487 (Table2-adjusted),"Adjusted PR; the unadjusted PR of the same contrast is also extracted, so primary belongs to the zero-order row only (protocol section 3)"
+E_s12s4-0992,fix,x_source,self,objective,effects.md L17076,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0990,fix,x_source,self,objective,effects.md L16369,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0991,fix,x_source,self,objective,effects.md L17075,"Driver sex, experience, hukou, vehicle, lighting, weather, time and holiday variables come from police crash records (records design, objective y), not self-report"
+E_s12s4-0989,fix,x_source,self,objective,effects.md L16368,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0988,fix,x_source,self,objective,effects.md L16366,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0987,fix,x_source,self,objective,effects.md L16364,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0986,fix,x_source,self,objective,effects.md L16363,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0985,fix,x_source,self,objective,effects.md L16362,"Driver sex, surface condition, posted limit, distraction and weekend are variables of the Wyoming DOT crash records (records design), not self-report"
+E_s12s4-0178,ok,,,,effects.md L11281 (S1-010),r = 0.02 matches the cited row; sign_x = 1 and direction verified; N = 401
+E_s12s4-0179,ok,,,,effects.md L13469 (S1-103),r = 0.102 matches the cited row; sign_x = 1 and direction verified; N = 623
+E_s12s4-0180,ok,,,,effects.md L14286 (S1-0169),r = 0.14 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0181,ok,,,,effects.md L15238 (S1-0055),r = 0.36 matches the cited row; sign_x = 1 and direction verified; N = 67
+E_s12s4-0182,ok,,,,effects.md L6088 (S1-131),r = 0.1 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0183,ok,,,,effects.md L6151 (S1-132),r = 0.11 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0184,ok,,,,effects.md L6025 (S1-130),r = 0.22 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0185,ok,,,,effects.md L10273 (S1-078),r = 0.038 matches the cited row; sign_x = 1 and direction verified; N = 297
+E_s12s4-0186,ok,,,,effects.md L16453 (Sullman2002_NZtruck-S1-C09-07),r = 0.06 matches the cited row; sign_x = 1 and direction verified; N = 378
+E_s12s4-0187,ok,,,,effects.md L11284 (S1-016),r = 0.04 matches the cited row; sign_x = 1 and direction verified; N = 401
+E_s12s4-0188,ok,,,,effects.md L14287 (S1-0170),r = 0.13 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0189,ok,,,,effects.md L15239 (S1-0056),r = 0.35 matches the cited row; sign_x = 1 and direction verified; N = 67
+E_s12s4-0208,ok,,,,raw_data.md Yousaf2024 T6 (L29670),r = .262 verified in the printed Pakistan Table 6 (Accidents x Mistakes). The single star is inconsistent with the magnitude at N=623 (source typography); the value itself is as printed.
+E_s12s4-0207,ok,,,,effects.md L15604 (Sahebi2019-T4-169),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 712
+E_s12s4-0177,ok,,,,effects.md L16451 (Sullman2002_NZtruck-S1-C09-05),r = -0.007 matches the cited row; sign_x = 1 and direction verified; N = 378
+E_s12s4-0202,ok,,,,effects.md L15765 (Davey2007-E20),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 443
+E_s12s4-0201,fix,x_label,Accidents (last six months),Driving time (weekly),effects.md L1334 (S1-034),"x_label and y_label are swapped; x_code EXPOSURE, y_code CRASH_SELF and r are right"
+E_s12s4-0201,fix,y_label,Driving time (weekly),Accidents (last six months),effects.md L1334 (S1-034),swapped with x_label
+E_s12s4-0201,fix,x_sub,MILEAGE,DRIVING_TIME_WEEKLY,effects.md L1334,"the exposure measure is weekly driving time, not mileage (mileage is E_s12s4-0096)"
+E_s12s4-0176,ok,,,,effects.md L10272 (S1-077),r = 0.083 matches the cited row; sign_x = 1 and direction verified; N = 297
+E_s12s4-0175,ok,,,,effects.md L15592 (Sahebi2019-T4-157),r = 0.16 matches the cited row; sign_x = 1 and direction verified; N = 712
+E_s12s4-0174,ok,,,,effects.md L6026 (S1-133),r = 0.21 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0149,ok,,,,effects.md L14280 (S1-0163),r = 0.1 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0147,ok,,,,effects.md L6019 (S1-112),r = 0.12 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0146,ok,,,,effects.md L6145 (S1-114),r = -0.04 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0145,ok,,,,effects.md L6082 (S1-113),r = 0.07 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0144,ok,,,,effects.md L2400 (S1-026),r = 0.107 matches the cited row; sign_x = 1 and direction verified; N = 343
+E_s12s4-0148,ok,,,,effects.md L10266 (S1-071),r = 0.026 matches the cited row; sign_x = 1 and direction verified; N = 297
+E_s12s4-0209,unsure,x_code,ERR_LAPSE,INATTENTION,effects.md L8709,"Mind-wandering scale (trait attention lapses) is coded ERR_LAPSE/LAPSES; the protocol code for mind wandering or inattention is INATTENTION (S2u either way, so stage-level pooling is unaffected). r=.152 verified."
+E_s12s4-0159,ok,,,,effects.md L6146 (S1-117),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0173,ok,,,,effects.md L6152 (S1-135),r = 0.11 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0172,ok,,,,effects.md L6089 (S1-134),r = 0.19 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0171,ok,,,,effects.md L16941 (DotseRowe2021_GhanaDBQ-R03-C02),r = 0.28 matches the cited row; sign_x = 1 and direction verified; N = 453
+E_s12s4-0170,ok,,,,effects.md L15774 (Davey2007-E29),r = 0.04 matches the cited row; sign_x = 1 and direction verified; N = 443
+E_s12s4-0158,ok,,,,effects.md L6083 (S1-116),r = 0.03 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0161,ok,,,,effects.md L10268 (S1-073),r = 0.176 matches the cited row; sign_x = 1 and direction verified; N = 297
+E_s12s4-0160,ok,,,,effects.md L6020 (S1-115),r = 0.12 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0249,ok,,,,effects.md L7278 (S1-023),r = -0.13 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0254,ok,,,,effects.md L7285 (S1-030),r = -0.03 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0258,ok,,,,effects.md L7291 (S1-036),r = -0.06 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0265,ok,,,,raw_data.md L12150 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0279,ok,,,,raw_data.md L12147 (t1),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0278,ok,,,,raw_data.md L12184 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0277,ok,,,,raw_data.md L12182 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0276,ok,,,,raw_data.md L12172 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0275,ok,,,,raw_data.md L12170 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0274,ok,,,,raw_data.md L12164 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0273,ok,,,,raw_data.md L12166 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0271,ok,,,,raw_data.md L12189 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0270,ok,,,,raw_data.md L12179 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0269,ok,,,,raw_data.md L12160 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0268,ok,,,,raw_data.md L12159 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0267,ok,,,,raw_data.md L12154 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0266,ok,,,,raw_data.md L12153 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0272,ok,,,,raw_data.md L12168 (t1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0226,ok,,,,effects.md L2407,"ALT is an altruistic-behavior-intention scale (Witt & Boleman), not Agreeableness; PERS_A is the nearest code. r=-.067 verified."
+E_s12s4-0224,ok,,,,effects.md L2404 (S1-030),r = 0.14 matches the cited row; sign_x = 1 and direction verified; N = 343
+E_s12s4-0227,ok,,,,effects.md L2409 (S1-035),r = 0.158 matches the cited row; sign_x = 1 and direction verified; N = 343
+E_s12s4-0217,ok,,,,effects.md L2389 (S1-015),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 343
+E_s12s4-0211,ok,,,,raw_data.md L2145 (T1),Cells re-derived from the source counts or percentages and match; group 1 = behavior present or risk group
+E_s12s4-0243,ok,,,,effects.md L7270 (S1-015),r = -0.01 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0236,ok,,,,effects.md L7261 (S1-006),r = -0.08 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0280,ok,,,,raw_data.md L12163 (t1),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0048,ok,,,,effects.md L15752 (Davey2007-E7),r = -0.05 matches the cited row; sign_x = -1 and direction verified; N = 443
+E_s12s4-0049,ok,,,,effects.md L2382 (S1-008),r = 0.09 matches the cited row; sign_x = -1 and direction verified; N = 343
+E_s12s4-0050,ok,,,,effects.md L16944 (DotseRowe2021_GhanaDBQ-R04-C03),r = 0.14 matches the cited row; sign_x = -1 and direction verified; N = 453
+E_s12s4-0051,ok,,,,effects.md L7302 (S1-047),r = 0.21 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0052,ok,,,,effects.md L8706 (S1-047),r = 0.001 matches the cited row; sign_x = -1 and direction verified; N = 295
+E_s12s4-0058,ok,,,,effects.md L15240 (S1-0072),r = 0.21 matches the cited row; sign_x = -1 and direction verified; N = 67
+E_s12s4-0057,ok,,,,effects.md L14272 (S1-0155),r = 0.11 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0056,ok,,,,raw_data.md Yousaf2024 T6; effects.md L13480,"r = .071 verified in printed Pakistan Table 6. The category coding of age is not printed; sign_x = -1 assumes ascending age bands (extractor assumption, plausible)."
+E_s12s4-0055,ok,,,,effects.md L16446 (Sullman2002_NZtruck-S1-C09-00),r = -0.189 matches the cited row; sign_x = -1 and direction verified; N = 378
+E_s12s4-0054,ok,,,,effects.md L10264 (S1-069),r = -0.091 matches the cited row; sign_x = -1 and direction verified; N = 297
+E_s12s4-0053,ok,,,,"effects.md L17616 (Demographic crash correlations, Table 2: Age)",r = -0.081 matches the cited row; sign_x = -1 and direction verified; N = 824
+E_s12s4-0119,ok,,,,effects.md L15759 (Davey2007-E14),r = -0.07 matches the cited row; sign_x = -1 and direction verified; N = 443
+E_s12s4-0120,ok,,,,effects.md L2395 (S1-021),r = -0.11 matches the cited row; sign_x = -1 and direction verified; N = 343
+E_s12s4-0121,ok,,,,effects.md L16950 (DotseRowe2021_GhanaDBQ-R06-C03),r = 0.13 matches the cited row; sign_x = -1 and direction verified; N = 453
+E_s12s4-0122,ok,,,,effects.md L7304 (S1-049),r = 0.25 matches the cited row; sign_x = -1 and direction verified; N = 555
+E_s12s4-0123,ok,,,,effects.md L8707 (S1-048),r = 0.066 matches the cited row; sign_x = -1 and direction verified; N = 295
+E_s12s4-0127,ok,,,,effects.md L14274 (S1-0157),r = 0.09 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0126,ok,,,,effects.md L13488,r = -.006 verified. Coding of the experience bands is not printed; sign_x = -1 assumes ascending bands (extractor assumption). Effect is about zero.
+E_s12s4-0125,fix,x_label,Crashes in three years y/n,Years (years driving trucks),effects.md L16448 (S1-C09-02),"x_label and y_label are swapped; codes, r and sign are right. Distinct from E_s12s4-0665 (Industry) although both r = -0.121 in the source"
+E_s12s4-0125,fix,y_label,Years,Crashes in three years y/n,effects.md L16448,swapped with x_label
+E_s12s4-0124,ok,,,,effects.md L17616 (Table 2: Experience),r = 0.014 matches the cited row; sign_x = -1 and direction verified; N = 824
+E_s12s4-0103,ok,,,,effects.md L14275 (S1-0158),r = 0.16 matches the cited row; sign_x = 1 and direction verified; N = 302
+E_s12s4-0080,ok,,,,effects.md L14271 (S1-0154),r = -0.03 matches the cited row; sign_x = -1 and direction verified; N = 302
+E_s12s4-0079,ok,,,,effects.md L10265 (S1-070),r = -0.048 matches the cited row; sign_x = -1 and direction verified; N = 297
+E_s12s4-0078,ok,,,,raw_data.md Qu2015 Table 2 G019-G020; effects.md L8705,"Gender sign verified independently: Table 2 means show females with more accidents (0.87) than males (0.53), consistent with the positive r under female = higher code, so sign_x=-1 for MALE is right."
+E_s12s4-0077,ok,,,,effects.md L16947 (DotseRowe2021_GhanaDBQ-R05-C03),r = 0.16 matches the cited row; sign_x = 1 and direction verified; N = 453
+E_s12s4-0102,ok,,,,effects.md L16447 (Sullman2002_NZtruck-S1-C09-01),r = 0.091 matches the cited row; sign_x = 1 and direction verified; N = 378
+E_s12s4-0101,ok,,,,effects.md L17616 (Table 2: Number of driving hours (exposure proxy)),r = 0.135 matches the cited row; sign_x = 1 and direction verified; N = 824
+E_s12s4-0100,ok,,,,effects.md L8708 (S1-049),r = 0.121 matches the cited row; sign_x = 1 and direction verified; N = 295
+E_s12s4-0099,ok,,,,effects.md L7303 (S1-048),r = 0.21 matches the cited row; sign_x = 1 and direction verified; N = 555
+E_s12s4-0098,ok,,,,effects.md L16953 (DotseRowe2021_GhanaDBQ-R07-C03),r = 0.28 matches the cited row; sign_x = 1 and direction verified; N = 453
+E_s12s4-0097,ok,,,,effects.md L15770 (Davey2007-E25),r = 0.06 matches the cited row; sign_x = 1 and direction verified; N = 443
+E_s12s4-0096,ok,,,,effects.md L1335 (S1-035),r = 0.27 matches the cited row; sign_x = 1 and direction verified; N = 428
+E_s12s4-0281,ok,,,,raw_data.md L12186 (t1),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0473,ok,,,,effects.md L6081 (S1-110),r = 0.01 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0474,ok,,,,effects.md L6084 (S1-119),r = -0.03 matches the cited row; sign_x = -1 and direction verified; N = 412
+E_s12s4-0475,ok,,,,effects.md L6085 (S1-122),r = -0 matches the cited row; sign_x = 1 and direction verified; N = 412
+E_s12s4-0476,ok,,,,effects.md L6086 (S1-125),r = -0.09 matches the cited row; sign_x = -1 and direction verified; N = 412
+E_s12s4-0450,ok,,,,effects.md L6023 (S1-124),r = -0.18 matches the cited row; sign_x = -1 and direction verified; N = 435
+E_s12s4-0449,ok,,,,effects.md L6022 (S1-121),r = -0.13 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0448,ok,,,,effects.md L6021 (S1-118),r = -0.08 matches the cited row; sign_x = -1 and direction verified; N = 435
+E_s12s4-0447,ok,,,,effects.md L6018 (S1-109),r = -0.04 matches the cited row; sign_x = 1 and direction verified; N = 435
+E_s12s4-0510,ok,,,,effects.md L6294 (S1-257),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0509,ok,,,,effects.md L6294 (S1-257),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0502,ok,,,,effects.md L6149 (S1-126),r = 0 matches the cited row; sign_x = -1 and direction verified; N = 439
+E_s12s4-0501,ok,,,,effects.md L6148 (S1-123),r = 0.08 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0500,ok,,,,effects.md L6147 (S1-120),r = 0.01 matches the cited row; sign_x = -1 and direction verified; N = 439
+E_s12s4-0499,ok,,,,effects.md L6144 (S1-111),r = 0 matches the cited row; sign_x = 1 and direction verified; N = 439
+E_s12s4-0517,ok,,,,effects.md L10267 (S1-072),r = -0.073 matches the cited row; sign_x = -1 and direction verified; N = 297
+E_s12s4-0321,ok,,,,raw_data.md L28391 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0322,ok,,,,raw_data.md L28395 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0323,ok,,,,raw_data.md L28396 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0324,ok,,,,raw_data.md L28398 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0325,ok,,,,raw_data.md L28399 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0326,ok,,,,raw_data.md L28400 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0327,ok,,,,raw_data.md L28402 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0328,ok,,,,raw_data.md L28403 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0329,ok,,,,raw_data.md L28404 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0330,ok,,,,raw_data.md L28407 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0331,ok,,,,raw_data.md L28408 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0332,ok,,,,raw_data.md L28409 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0333,ok,,,,raw_data.md L28410 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0334,ok,,,,raw_data.md L28411 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0335,ok,,,,raw_data.md L28413 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0336,ok,,,,raw_data.md L28415 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0337,ok,,,,raw_data.md L28417 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0320,ok,,,,raw_data.md L28391 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0338,ok,,,,raw_data.md L28360 (GD-035/GD-036),"Means, SDs and group sizes match the source; group 1 and sign verified"
+E_s12s4-0319,ok,,,,raw_data.md L28390 (T1),Proportions and group sizes match the source; group 1 = risk group
+E_s12s4-0318,ok,,,,effects.md L13146 (S1-068),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0317,ok,,,,effects.md L13145 (S1-066),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0298,ok,,,,effects.md L13069,Measure m-license is described in the source as licence ownership or duration with ambiguous labelling; EXPERIENCE (years licensed) is an assumption. Orientation (sign -1) is the same under either reading.
+E_s12s4-0297,ok,,,,effects.md L13068 (S1-010),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0294,ok,,,,effects.md L13100 (S1-038),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0293,ok,,,,effects.md L13099 (S1-036),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0299,ok,,,,effects.md L13070 (S1-014),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0292,ok,,,,effects.md L13034 (S1-004),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0291,ok,,,,effects.md L13033 (S1-002),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0300,ok,,,,effects.md L13072 (S1-018),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0302,ok,,,,effects.md L13076 (S1-026),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0316,ok,,,,effects.md L13144 (S1-064),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0315,ok,,,,effects.md L13143 (S1-062),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0314,ok,,,,effects.md L13142 (S1-060),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0313,ok,,,,effects.md L13140 (S1-056),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0312,ok,,,,effects.md L13138 (S1-052),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0311,ok,,,,effects.md L13136 (S1-048),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0301,ok,,,,effects.md L13074 (S1-022),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0310,ok,,,,effects.md L13135,Same ambiguous License variable as E_s12s4-0298.
+E_s12s4-0306,ok,,,,effects.md L13080 (S1-034),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0305,ok,,,,effects.md L13079 (S1-032),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0304,ok,,,,effects.md L13078 (S1-030),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0303,ok,,,,effects.md L13077 (S1-028),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0309,ok,,,,effects.md L13134 (S1-044),Ratio and 95% CI match the cited row; group orientation and adjustment flag verified
+E_s12s4-0396,fix,primary,yes,no,"effects.md L13825; zero-order counterpart E_s12s4-0056 (r = .071, same sample, same variables)",Protocol section 3: primary = yes on the zero-order row only when both exist
+E_s12s4-0397,fix,primary,yes,no,effects.md L13826; zero-order counterpart E_s12s4-0126 (r = -.006),Protocol section 3: primary = yes on the zero-order row only when both exist
+E_s12s4-0421,ok,,,,effects.md L15232,DDDI negative cognitive/emotional subscale; ANGER is an approximate code. r verified (N=67).
+E_s12s4-0420,ok,,,,effects.md L15230 (S1-0047),r = -0.25 matches the cited row; sign_x = -1 and direction verified; N = 67
+E_s12s4-0367,ok,,,,raw_data.md Yousaf2024 T6 (L29673); effects.md L13497,"r = .463 verified (Table 6, Accidents x Motorcycle Experience). The value is much larger than other Table 6 correlations with accidents; it is printed so in the source. Band coding not printed (higher = more assumed)."
+E_s12s4-0361,ok,,,,raw_data.md Yousaf2024 T6 (L29670),DDDI negative emotions factor; ANGER is an approximate code. r verified.
+E_s12s4-0371,ok,,,,raw_data.md Yousaf2024 T6 (L29675),r = -.051 verified in the printed Pakistan Table 6 (Accidents x Driving Training); the star is inconsistent with magnitude at N=623 (source typography).

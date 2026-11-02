@@ -1,0 +1,585 @@
+﻿es_id,verdict,field,current_value,correct_value,evidence,comment
+B1_s2core-258,ok,,,,effects.md line 11098 (S1-119),Steinhauser2018 paired t(72)=4.23; angry group has shorter distance so t=-4.23 and sign_y=-1 give aligned r=+.446; formula r=t/sqrt(t^2+df) checked
+B1_s2core-257,unsure,y_code,Mixed,not V/NV (speed variability),effects.md:11095 (Steinhauser2018 S1-112),Speed variability (SD km/h) in car following is a driving performance index; it breaks no movement rule and is not an aggressive-looking act. Mixed was inherited from s123. Keep only if the parent accepts speed variability as PAD-related.
+B1_s2core-256,ok,,,,effects.md line 11092 (S1-105),
+B1_s2core-255,ok,,,,effects.md line 6861 (S1-059),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-254,ok,,,,effects.md line 6860 (S1-058),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-253,ok,,,,effects.md line 6859 (S1-057),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-252,ok,,,,effects.md line 6853 (S1-051),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-250,ok,,,,effects.md line 6851 (S1-049),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-249,ok,,,,effects.md line 6902 (S1-126),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-248,ok,,,,effects.md line 6901 (S1-125),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-247,ok,,,,effects.md line 6900 (S1-124),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-251,ok,,,,effects.md line 6852 (S1-050),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B1_s2core-261,ok,,,,effects.md line 10203 (S1-008),
+B1_s2core-272,ok,,,,effects.md line 14205 (S1-0088),
+B1_s2core-263,ok,,,,effects.md line 10236 (S1-041),
+B1_s2core-240,ok,,,,effects.md line 10807 (S1-024),
+B1_s2core-281,ok,,,,effects.md line 14203 (S1-0086),
+B1_s2core-280,ok,,,,effects.md line 14191 (S1-0074),
+B1_s2core-279,ok,,,,effects.md line 14220 (S1-0103),
+B1_s2core-278,ok,,,,effects.md line 14207 (S1-0090),
+B1_s2core-277,ok,,,,effects.md line 14195 (S1-0078),
+B1_s2core-276,ok,,,,effects.md line 14219 (S1-0102),
+B1_s2core-262,ok,,,,effects.md line 10228 (S1-033),
+B1_s2core-275,ok,,,,effects.md line 14206 (S1-0089),
+B1_s2core-273,ok,,,,effects.md line 14218 (S1-0101),
+B1_s2core-271,ok,,,,effects.md line 14193 (S1-0076),
+B1_s2core-269,unsure,y_code,Mixed,NV (probable),"raw_data.md Shukri2021 measure 'driving': modified DDDI, 14 items, aggressive plus negative/emotional driving, no risky-driving (V) items","Scale has aggressive (NV) and negative emotional items but no rule-violating movement items, so Mixed (V+NV) is not supported. Value r=.56, N=476 verified at effects.md:10696."
+B1_s2core-266,ok,,,,effects.md line 10238 (S1-043),
+B1_s2core-265,ok,,,,effects.md line 10230 (S1-035),
+B1_s2core-264,ok,,,,effects.md line 10212 (S1-017),
+B1_s2core-274,ok,,,,effects.md line 14194 (S1-0077),
+B1_s2core-282,ok,,,,effects.md line 14216 (S1-0099),
+B1_s2core-238,ok,,,,effects.md line 10804 (S1-021),
+B1_s2core-212,ok,,,,effects.md line 8274 (S1-091),
+B1_s2core-211,ok,,,,effects.md line 8296 (S1-113),
+B1_s2core-210,ok,,,,effects.md line 8284 (S1-101),
+B1_s2core-209,ok,,,,effects.md line 8273 (S1-090),
+B1_s2core-208,ok,,,,effects.md line 8295 (S1-112),
+B1_s2core-207,ok,,,,effects.md line 8283 (S1-100),
+B1_s2core-206,ok,,,,effects.md line 8272 (S1-089),
+B1_s2core-204,ok,,,,effects.md line 8292 (S1-109),
+B1_s2core-213,ok,,,,effects.md line 8285 (S1-102),
+B1_s2core-203,ok,,,,effects.md line 8280 (S1-097),
+B1_s2core-201,ok,,,,effects.md line 8194 (S1-019),
+B1_s2core-200,ok,,,,effects.md line 8193 (S1-018),
+B1_s2core-199,ok,,,,effects.md line 8192 (S1-017),
+B1_s2core-198,ok,,,,effects.md line 8191 (S1-016),
+B1_s2core-202,ok,,,,effects.md line 8269 (S1-086),
+B1_s2core-239,ok,,,,effects.md line 10806 (S1-023),
+B1_s2core-214,ok,,,,effects.md line 8297 (S1-114),
+B1_s2core-237,ok,,,,effects.md line 10803 (S1-020),
+B1_s2core-236,ok,,,,effects.md line 10800 (S1-017),
+B1_s2core-235,ok,,,,effects.md line 10799 (S1-016),
+B1_s2core-336,ok,,,,effects.md line 5817 (S1-041),
+B1_s2core-288,ok,,,,effects.md line 1416 (S1-009),"Beck2013 r=.24 Table 2; aggressive scale items not itemised, NV per masem (s123 coded Mixed)"
+B1_s2core-358,ok,,,,effects.md line 5839 (S1-063),
+B1_s2core-357,ok,,,,effects.md line 5838 (S1-062),
+B1_s2core-356,ok,,,,effects.md line 5837 (S1-061),
+B1_s2core-355,ok,,,,effects.md line 5836 (S1-060),
+B1_s2core-354,ok,,,,effects.md line 5835 (S1-059),
+B1_s2core-353,ok,,,,effects.md line 5834 (S1-058),
+B1_s2core-352,ok,,,,effects.md line 5833 (S1-057),
+B1_s2core-351,ok,,,,effects.md line 5832 (S1-056),
+B1_s2core-350,ok,,,,effects.md line 5831 (S1-055),
+B1_s2core-359,ok,,,,effects.md line 5840 (S1-064),
+B1_s2core-349,ok,,,,effects.md line 5830 (S1-054),
+B1_s2core-347,ok,,,,effects.md line 5828 (S1-052),
+B1_s2core-346,ok,,,,effects.md line 5827 (S1-051),
+B1_s2core-345,ok,,,,effects.md line 5826 (S1-050),
+B1_s2core-344,ok,,,,effects.md line 5825 (S1-049),
+B1_s2core-343,ok,,,,effects.md line 5824 (S1-048),
+B1_s2core-342,ok,,,,effects.md line 5823 (S1-047),
+B1_s2core-341,ok,,,,effects.md line 5822 (S1-046),
+B1_s2core-340,ok,,,,effects.md line 5821 (S1-045),
+B1_s2core-339,ok,,,,effects.md line 5820 (S1-044),
+B1_s2core-348,ok,,,,effects.md line 5829 (S1-053),
+B1_s2core-338,ok,,,,effects.md line 5819 (S1-043),
+B1_s2core-360,ok,,,,effects.md line 5841 (S1-065),
+B1_s2core-362,ok,,,,effects.md line 16442 (Sullman2002_NZtruck-S1-C08-04),
+B1_s2core-193,ok,,,,raw_data.md line 15975 (S1-036),
+B1_s2core-380,ok,,,,raw_data.md line 39979; 39987 (AAA2025-GD-Table11-0204; AAA2025-GD-Table11-0212),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-378,ok,,,,raw_data.md line 39978; 39986 (AAA2025-GD-Table11-0203; AAA2025-GD-Table11-0211),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-376,ok,,,,raw_data.md line 39977; 39985 (AAA2025-GD-Table11-0202; AAA2025-GD-Table11-0210),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-374,ok,,,,raw_data.md line 39976; 39984 (AAA2025-GD-Table11-0201; AAA2025-GD-Table11-0209),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-361,ok,,,,effects.md line 16429 (Sullman2002_NZtruck-S1-C06-04),
+B1_s2core-370,ok,,,,raw_data.md line 39974; 39982 (AAA2025-GD-Table11-0199; AAA2025-GD-Table11-0207),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-368,ok,,,,raw_data.md line 39973; 39981 (AAA2025-GD-Table11-0198; AAA2025-GD-Table11-0206),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-366,ok,,,,raw_data.md line 39972; 39980 (AAA2025-GD-Table11-0197; AAA2025-GD-Table11-0205),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-365,ok,,,,effects.md line 16865 (Stephens2025_DAX-E006),
+B1_s2core-364,ok,,,,effects.md line 16864 (Stephens2025_DAX-E005),
+B1_s2core-363,ok,,,,effects.md line 16863 (Stephens2025_DAX-E004),
+B1_s2core-372,ok,,,,raw_data.md line 39975; 39983 (AAA2025-GD-Table11-0200; AAA2025-GD-Table11-0208),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B1_s2core-337,ok,,,,effects.md line 5818 (S1-042),
+B1_s2core-335,ok,,,,effects.md line 5816 (S1-040),
+B1_s2core-334,ok,,,,effects.md line 5815 (S1-039),
+B1_s2core-308,ok,,,,effects.md line 5779 (S1-003),
+B1_s2core-307,ok,,,,effects.md line 5778 (S1-002),
+B1_s2core-306,ok,,,,effects.md line 5777 (S1-001),
+B1_s2core-305,ok,,,,effects.md line 4967 (S1-013),
+B1_s2core-304,fix,y_code,NV,Mixed,"raw_data.md Wang2023 measure m-aggressive (17 items, 1-6, item content not in packet); other rows in same sample (B2_s2other-0402, 0403) code the same scale Mixed","Same y measure (Aggressive behaviour, 17 items) is coded NV here and Mixed in two sibling rows. Item content is not in the packet, so NV only is unsupported; use Mixed consistently. r value and N=294 verified."
+B1_s2core-303,fix,y_code,NV,Mixed,"raw_data.md Wang2023 measure m-aggressive (17 items, 1-6, item content not in packet); other rows in same sample (B2_s2other-0402, 0403) code the same scale Mixed","Same y measure (Aggressive behaviour, 17 items) is coded NV here and Mixed in two sibling rows. Item content is not in the packet, so NV only is unsupported; use Mixed consistently. r value and N=294 verified."
+B1_s2core-302,fix,y_code,NV,Mixed,"raw_data.md Wang2023 measure m-aggressive (17 items, 1-6, item content not in packet); other rows in same sample (B2_s2other-0402, 0403) code the same scale Mixed","Same y measure (Aggressive behaviour, 17 items) is coded NV here and Mixed in two sibling rows. Item content is not in the packet, so NV only is unsupported; use Mixed consistently. r value and N=294 verified."
+B1_s2core-300,ok,,,,effects.md line 71 (S1-029),
+B1_s2core-309,ok,,,,effects.md line 5780 (S1-004),
+B1_s2core-299,ok,,,,effects.md line 70 (S1-028),
+B1_s2core-297,ok,,,,effects.md line 57 (S1-015),
+B1_s2core-296,ok,,,,effects.md line 51 (S1-009),
+B1_s2core-295,ok,,,,effects.md line 50 (S1-008),
+B1_s2core-294,ok,,,,effects.md line 48 (S1-006),
+B1_s2core-291,ok,,,,effects.md line 11448 (S1-011),
+B1_s2core-290,ok,,,,effects.md line 11447 (S1-010),
+B1_s2core-289,ok,,,,effects.md line 1417 (S1-010),
+B1_s2core-298,ok,,,,effects.md line 68 (S1-026),
+B1_s2core-310,ok,,,,effects.md line 5781 (S1-005),
+B1_s2core-311,ok,,,,effects.md line 5782 (S1-006),
+B1_s2core-312,ok,,,,effects.md line 5783 (S1-007),
+B1_s2core-333,ok,,,,effects.md line 5814 (S1-038),
+B1_s2core-332,ok,,,,effects.md line 5813 (S1-037),
+B1_s2core-331,ok,,,,effects.md line 5812 (S1-036),
+B1_s2core-330,ok,,,,effects.md line 5811 (S1-035),
+B1_s2core-329,ok,,,,effects.md line 5810 (S1-034),
+B1_s2core-328,ok,,,,effects.md line 5809 (S1-033),
+B1_s2core-327,ok,,,,effects.md line 5808 (S1-032),
+B1_s2core-326,ok,,,,effects.md line 5807 (S1-031),
+B1_s2core-325,ok,,,,effects.md line 5796 (S1-020),
+B1_s2core-324,ok,,,,effects.md line 5795 (S1-019),
+B1_s2core-323,ok,,,,effects.md line 5794 (S1-018),
+B1_s2core-322,ok,,,,effects.md line 5793 (S1-017),
+B1_s2core-321,ok,,,,effects.md line 5792 (S1-016),
+B1_s2core-320,ok,,,,effects.md line 5791 (S1-015),
+B1_s2core-319,ok,,,,effects.md line 5790 (S1-014),
+B1_s2core-318,ok,,,,effects.md line 5789 (S1-013),
+B1_s2core-317,ok,,,,effects.md line 5788 (S1-012),
+B1_s2core-316,ok,,,,effects.md line 5787 (S1-011),
+B1_s2core-315,ok,,,,effects.md line 5786 (S1-010),
+B1_s2core-314,ok,,,,effects.md line 5785 (S1-009),
+B1_s2core-313,ok,,,,effects.md line 5784 (S1-008),
+B1_s2core-192,ok,,,,raw_data.md line 15974 (S1-035),
+B1_s2core-190,ok,,,,raw_data.md line 15971 (S1-031),
+B1_s2core-072,ok,,,,effects.md line 13447 (S1-081),
+B1_s2core-092,ok,,,,effects.md line 7160 (S1-032),
+B1_s2core-091,unsure,y_code,NV,Mixed (possible),"raw_data.md Krahe2026 AViS measure row (15 items: 6 instrumental, 2 anger, 3 enjoyment of violence, 4 acting out; items not itemised; the parallel perceived-others items include close following and tight cutting-in)","AViS wording is described as paralleled by tailgating and cutting-in items, so the scale may mix V and NV. Items are not printed in the packet; cannot confirm NV only."
+B1_s2core-071,ok,,,,effects.md line 13446 (S1-080),
+B1_s2core-073,ok,,,,effects.md line 13453 (S1-087),
+B1_s2core-014,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9356","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-014,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9356,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-013,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9355,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-012,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9351","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-012,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9351,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-011,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9350,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-010,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9326","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-010,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9326,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-008,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9321","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-008,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9321,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-007,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9320,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-006,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9296","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-006,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9296,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-005,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9295,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-004,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9286","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-004,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9286,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-003,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9285,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-002,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9276","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B1_s2core-002,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9276,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-001,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9275,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-191,ok,,,,raw_data.md line 15972 (S1-032),
+B1_s2core-009,unsure,n_total,1638,1294 (lower bound) or consistent value,raw_data.md Sarma2013 n_notes: zero-order correlation n ranged 1294-1638; effects.md:9325,Pairwise N per cell is not printed. B1 rows use 1638 and B2 rows of the same table use 1294. Use one convention for the whole table (the conservative lower bound 1294).
+B1_s2core-044,ok,,,,raw_data.md line 3998 (S1-027),
+B1_s2core-043,ok,,,,raw_data.md line 3998 (S1-026),
+B1_s2core-042,ok,,,,raw_data.md line 3998 (S1-025),
+B1_s2core-041,ok,,,,effects.md line 1587 (S1-046),
+B1_s2core-040,ok,,,,effects.md line 1586 (S1-045),
+B1_s2core-039,ok,,,,effects.md line 1585 (S1-044),
+B1_s2core-037,ok,,,,effects.md line 1575 (S1-028),
+B1_s2core-036,ok,,,,effects.md line 1574 (S1-027),"Bergeron2014 Table 1 r=.25, N=72; DDDI score ambiguous between risky subscale and total, Mixed acceptable"
+B1_s2core-035,ok,,,,raw_data.md Mohamed2017 Table 4 (effects.md:7439),"r=-0.133 (latent construct correlation ATT x AGD), N=276 verified; sign_x -1 correct for safety attitude. AGD = DBQ-adapted aggressive items, NV agrees with masem pair ERR-NV."
+B1_s2core-034,ok,,,,effects.md line 7445 (S1-036),
+B1_s2core-032,ok,,,,effects.md line 5363 (S1-012),"Li2016 Table 6; both scales reverse-keyed (1=fully agree / 1=very often), so sign_x +1, sign_y +1 gives the same r_aligned as the technically exact sign_x -1, sign_y -1"
+B1_s2core-033,ok,,,,effects.md line 5367 (S1-016),same as 032; subjective norm alpha .34
+B1_s2core-094,ok,,,,effects.md line 7155 (S1-027),
+B1_s2core-038,ok,,,,effects.md line 1584 (S1-043),
+B1_s2core-165,ok,,,,effects.md line 1741 (S1-073),
+B1_s2core-164,ok,,,,effects.md line 1730 (S1-062),
+B1_s2core-163,ok,,,,effects.md line 1720 (S1-052),
+B1_s2core-162,ok,,,,effects.md line 1765 (S1-097),
+B1_s2core-160,ok,,,,effects.md line 1740 (S1-072),
+B1_s2core-159,ok,,,,effects.md line 1729 (S1-061),
+B1_s2core-158,ok,,,,effects.md line 1719 (S1-051),
+B1_s2core-157,ok,,,,effects.md line 1764 (S1-096),
+B1_s2core-154,ok,,,,effects.md line 1728 (S1-060),
+B1_s2core-153,ok,,,,effects.md line 1718 (S1-050),
+B1_s2core-152,ok,,,,effects.md line 1763 (S1-095),
+B1_s2core-150,ok,,,,effects.md line 1738 (S1-070),
+B1_s2core-149,ok,,,,effects.md line 1727 (S1-059),
+B1_s2core-148,ok,,,,effects.md line 1717 (S1-049),
+B1_s2core-147,ok,,,,effects.md line 1762 (S1-094),
+B1_s2core-155,ok,,,,effects.md line 1739 (S1-071),
+B1_s2core-145,ok,,,,effects.md line 1737 (S1-069),
+B1_s2core-167,ok,,,,effects.md line 1766 (S1-098),
+B1_s2core-169,ok,,,,effects.md line 1731 (S1-063),
+B1_s2core-189,ok,,,,raw_data.md line 15970 (S1-029),
+B1_s2core-095,ok,,,,effects.md line 7156 (S1-028),
+B1_s2core-188,ok,,,,raw_data.md line 15969 (S1-027),
+B1_s2core-187,ok,,,,raw_data.md line 15968 (S1-025),
+B1_s2core-186,ok,,,,raw_data.md line 15963 (S1-018),
+B1_s2core-183,ok,,,,effects.md line 7284 (S1-029),
+B1_s2core-182,ok,,,,effects.md line 7277 (S1-022),
+B1_s2core-168,ok,,,,effects.md line 1721 (S1-053),
+B1_s2core-181,ok,,,,effects.md line 7269 (S1-014),
+B1_s2core-179,ok,,,,effects.md line 7290 (S1-035),
+B1_s2core-177,ok,,,,effects.md line 2399 (S1-025),"r=.191 Table 2; RD = adapted DBQ violations+errors (18 items), Mixed is acceptable"
+B1_s2core-175,ok,,,,effects.md line 5651 (S1-021),
+B1_s2core-173,ok,,,,effects.md line 5650 (S1-020),
+B1_s2core-172,ok,,,,effects.md line 1767 (S1-099),
+B1_s2core-180,ok,,,,effects.md line 7260 (S1-005),
+B1_s2core-144,ok,,,,effects.md line 1726 (S1-058),
+B1_s2core-170,ok,,,,effects.md line 1742 (S1-074),
+B1_s2core-142,ok,,,,effects.md line 1761 (S1-093),
+B1_s2core-117,ok,,,,effects.md line 6124 (S1-051),
+B1_s2core-113,ok,,,,effects.md line 6065 (S1-062),
+B1_s2core-112,ok,,,,effects.md line 6062 (S1-053),
+B1_s2core-111,ok,,,,effects.md line 6061 (S1-050),
+B1_s2core-118,ok,,,,effects.md line 6125 (S1-054),
+B1_s2core-107,ok,,,,effects.md line 6002 (S1-061),
+B1_s2core-105,ok,,,,effects.md line 5998 (S1-049),
+B1_s2core-143,ok,,,,effects.md line 1716 (S1-048),
+B1_s2core-106,ok,,,,effects.md line 5999 (S1-052),
+B1_s2core-119,ok,,,,effects.md line 6128 (S1-063),
+B1_s2core-140,ok,,,,effects.md line 1736 (S1-068),
+B1_s2core-139,ok,,,,effects.md line 1725 (S1-057),
+B1_s2core-138,ok,,,,effects.md line 1715 (S1-047),
+B1_s2core-137,ok,,,,effects.md line 1760 (S1-092),
+B1_s2core-134,ok,,,,effects.md line 1724 (S1-056),
+B1_s2core-133,ok,,,,effects.md line 1714 (S1-046),
+B1_s2core-132,ok,,,,effects.md line 1759 (S1-091),
+B1_s2core-135,ok,,,,effects.md line 1735 (S1-067),
+B1_s2core-124,ok,,,,effects.md line 1732 (S1-064),
+B1_s2core-130,ok,,,,effects.md line 1734 (S1-066),
+B1_s2core-129,ok,,,,effects.md line 1723 (S1-055),
+B1_s2core-128,ok,,,,effects.md line 1713 (S1-045),
+B1_s2core-127,ok,,,,effects.md line 1768 (S1-100),
+B1_s2core-125,ok,,,,effects.md line 1743 (S1-075),
+B1_s2core-123,ok,,,,effects.md line 1722 (S1-054),
+B2_s2other-0316,ok,,,,effects.md line 8270 (S1-087),
+B2_s2other-0313,ok,,,,effects.md line 8266 (S1-083),
+B2_s2other-0314,ok,,,,effects.md line 8277 (S1-094),
+B2_s2other-0315,ok,,,,effects.md line 8289 (S1-106),
+B2_s2other-0317,ok,,,,effects.md line 8281 (S1-098),
+B2_s2other-0298,ok,,,,effects.md line 7152 (S1-024),
+B2_s2other-0304,ok,,,,effects.md line 7443 (S1-034),
+B2_s2other-0297,ok,,,,effects.md line 7151 (S1-023),
+B2_s2other-0295,ok,,,,effects.md line 7157 (S1-029),
+B2_s2other-0293,ok,,,,effects.md line 6898 (S1-122),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0318,ok,,,,effects.md line 8293 (S1-110),
+B2_s2other-0294,ok,,,,effects.md line 6899 (S1-123),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0305,unsure,y_code,Mixed,NV (consistent with B1_s2core-035 and masem ERR-NV),raw_data.md Mohamed2017 EFA note (aggressive factor DB_15 to DB_19; item texts not printed); effects.md:7437,"The AGD factor is NV in B1_s2core-035 and in masem_pairs_extracted (ERR-NV) but Mixed here. Item texts are not printed, so Mixed is not supported over NV; use one code. Value r=.709 (latent), N=276 verified."
+B2_s2other-0319,ok,,,,effects.md line 8267 (S1-084),
+B2_s2other-0340,ok,,,,effects.md line 8692 (S1-033),
+B2_s2other-0321,ok,,,,effects.md line 8290 (S1-107),
+B2_s2other-0346,unsure,sign_x,-1,-1 (cannot confirm),effects.md:15672; raw_data.md Sahebi2019 note 'scale not printed',Same as 0345 (sleep quality scale direction not printed).
+B2_s2other-0292,ok,,,,effects.md line 6897 (S1-121),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0345,unsure,sign_x,-1,-1 (cannot confirm),effects.md:15668; raw_data.md Sahebi2019 note 'scale not printed',"Sleep quality Q21 response scale is not printed (mean 4.29, SD 0.75); higher = better sleep is assumed. If 1 = best, sign_x would be +1. Value r=-0.10, N=712 matches the source."
+B2_s2other-0344,ok,,,,effects.md line 15588 (Sahebi2019-T4-153),
+B2_s2other-0343,ok,,,,effects.md line 15584 (Sahebi2019-T4-149),
+B2_s2other-0342,ok,,,,effects.md line 15582 (Sahebi2019-T4-147),
+B2_s2other-0341,ok,,,,effects.md line 15578 (Sahebi2019-T4-143),
+B2_s2other-0339,ok,,,,effects.md line 8685 (S1-026),
+B2_s2other-0338,ok,,,,effects.md line 8674 (S1-015),
+B2_s2other-0327,ok,,,,effects.md line 8294 (S1-111),
+B2_s2other-0326,ok,,,,effects.md line 8282 (S1-099),
+B2_s2other-0325,ok,,,,effects.md line 8271 (S1-088),
+B2_s2other-0324,ok,,,,effects.md line 8291 (S1-108),
+B2_s2other-0323,ok,,,,effects.md line 8279 (S1-096),
+B2_s2other-0322,ok,,,,effects.md line 8268 (S1-085),
+B2_s2other-0320,ok,,,,effects.md line 8278 (S1-095),
+B2_s2other-0291,ok,,,,effects.md line 6896 (S1-120),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0245,ok,,,,effects.md line 5805 (S1-029),
+B2_s2other-0289,ok,,,,effects.md line 6894 (S1-118),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0259,ok,,,,effects.md line 6001 (S1-058),
+B2_s2other-0257,ok,,,,effects.md line 6126 (S1-057),
+B2_s2other-0255,ok,,,,effects.md line 6063 (S1-056),
+B2_s2other-0253,ok,,,,effects.md line 6000 (S1-055),
+B2_s2other-0251,ok,,,,effects.md line 6123 (S1-048),
+B2_s2other-0249,ok,,,,effects.md line 6060 (S1-047),
+B2_s2other-0247,ok,,,,effects.md line 5997 (S1-046),
+B2_s2other-0246,ok,,,,effects.md line 5806 (S1-030),
+B2_s2other-0244,ok,,,,effects.md line 5804 (S1-028),"Love2024 Table 2 cell printed as 19*** (decimal missing); read as .19, consistent with p<.001 at N=527"
+B2_s2other-0243,ok,,,,effects.md line 5803 (S1-027),
+B2_s2other-0242,ok,,,,effects.md line 5802 (S1-026),
+B2_s2other-0241,ok,,,,effects.md line 5801 (S1-025),
+B2_s2other-0240,ok,,,,effects.md line 5800 (S1-024),
+B2_s2other-0239,ok,,,,effects.md line 5799 (S1-023),
+B2_s2other-0238,ok,,,,effects.md line 5798 (S1-022),
+B2_s2other-0237,ok,,,,effects.md line 5797 (S1-021),
+B2_s2other-0236,ok,,,,raw_data.md line 10015 (G073),
+B2_s2other-0235,ok,,,,raw_data.md line 10012 (G070),
+B2_s2other-0347,ok,,,,effects.md line 9280 (S1-061),
+B2_s2other-0290,ok,,,,effects.md line 6895 (S1-119),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0261,ok,,,,effects.md line 6064 (S1-059),
+B2_s2other-0263,ok,,,,effects.md line 6127 (S1-060),
+B2_s2other-0288,ok,,,,effects.md line 6893 (S1-117),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0287,ok,,,,effects.md line 6892 (S1-116),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0286,ok,,,,effects.md line 6891 (S1-115),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0285,ok,,,,effects.md line 6890 (S1-114),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0284,ok,,,,effects.md line 6889 (S1-113),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0283,ok,,,,effects.md line 6888 (S1-112),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0282,ok,,,,effects.md line 6877 (S1-075),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0281,ok,,,,effects.md line 6876 (S1-074),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0280,ok,,,,effects.md line 6875 (S1-073),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0279,ok,,,,effects.md line 6869 (S1-067),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0278,ok,,,,effects.md line 6868 (S1-066),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0277,ok,,,,effects.md line 6867 (S1-065),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0276,ok,,,,effects.md line 6845 (S1-043),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0275,ok,,,,effects.md line 6844 (S1-042),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0274,ok,,,,effects.md line 6843 (S1-041),"r verified in source table; pairwise N not printed (560 or 562), difference immaterial"
+B2_s2other-0270,ok,,,,effects.md line 6142 (S1-105),
+B2_s2other-0269,ok,,,,effects.md line 6079 (S1-104),
+B2_s2other-0268,ok,,,,effects.md line 6016 (S1-103),
+B2_s2other-0267,ok,,,,effects.md line 6135 (S1-084),
+B2_s2other-0266,ok,,,,effects.md line 6072 (S1-083),
+B2_s2other-0265,ok,,,,effects.md line 6009 (S1-082),
+B2_s2other-0348,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9281","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0350,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9291","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0433,ok,,,,effects.md line 14802 (S1-0112),
+B2_s2other-0432,ok,,,,effects.md line 14775 (S1-0085),
+B2_s2other-0431,ok,,,,effects.md line 14816 (S1-0126),
+B2_s2other-0430,ok,,,,effects.md line 14801 (S1-0111),
+B2_s2other-0429,ok,,,,effects.md line 14774 (S1-0084),
+B2_s2other-0428,ok,,,,effects.md line 14217 (S1-0100),
+B2_s2other-0427,ok,,,,effects.md line 14204 (S1-0087),
+B2_s2other-0426,ok,,,,effects.md line 14215 (S1-0098),
+B2_s2other-0425,ok,,,,effects.md line 14202 (S1-0085),
+B2_s2other-0424,ok,,,,effects.md line 14214 (S1-0097),
+B2_s2other-0423,ok,,,,effects.md line 14201 (S1-0084),
+B2_s2other-0422,ok,,,,effects.md line 14252 (S1-0135),r=.90 as printed (source matrix very collinear); consider sensitivity analysis
+B2_s2other-0421,ok,,,,effects.md line 14251 (S1-0134),r=.74 as printed
+B2_s2other-0420,ok,,,,effects.md line 14237 (S1-0120),r=.92 as printed (source matrix very collinear); consider sensitivity analysis
+B2_s2other-0419,ok,,,,effects.md line 14236 (S1-0119),"Yu2022 Table 2b r=.77 matches; very high subscale correlations (DBQ errors/lapses with violations .74-.92, DBQ total vs subscales .96-.97) are printed in the source; consider sensitivity analysis"
+B2_s2other-0418,ok,,,,effects.md line 14268 (S1-0151),
+B2_s2other-0417,ok,,,,effects.md line 14267 (S1-0150),
+B2_s2other-0416,ok,,,,effects.md line 14266 (S1-0149),
+B2_s2other-0415,ok,,,,effects.md line 13459 (S1-093),
+B2_s2other-0414,ok,,,,effects.md line 13456 (S1-090),
+B2_s2other-0413,ok,,,,effects.md line 13455 (S1-089),
+B2_s2other-0412,ok,,,,effects.md line 13454 (S1-088),
+B2_s2other-0411,ok,,,,effects.md line 13449 (S1-083),
+B2_s2other-0410,ok,,,,effects.md line 13448 (S1-082),
+B2_s2other-0435,ok,,,,effects.md line 14817 (S1-0127),
+B2_s2other-0438,ok,,,,effects.md line 14803 (S1-0113),
+B2_s2other-0234,ok,,,,raw_data.md line 10009 (G067),
+B2_s2other-0463,ok,,,,effects.md line 15228 (S1-0045),
+B2_s2other-0462,ok,,,,effects.md line 15227 (S1-0044),
+B2_s2other-0461,ok,,,,effects.md line 15225 (S1-0042),
+B2_s2other-0460,ok,,,,effects.md line 15224 (S1-0041),
+B2_s2other-0459,ok,,,,effects.md line 15222 (S1-0039),
+B2_s2other-0458,ok,,,,effects.md line 15220 (S1-0037),
+B2_s2other-0457,ok,,,,effects.md line 15219 (S1-0036),
+B2_s2other-0456,ok,,,,effects.md line 15217 (S1-0034),
+B2_s2other-0455,ok,,,,effects.md line 15216 (S1-0033),
+B2_s2other-0454,ok,,,,effects.md line 15214 (S1-0031),
+B2_s2other-0453,ok,,,,effects.md line 15206 (S1-0023),
+B2_s2other-0452,ok,,,,effects.md line 15200 (S1-0017),
+B2_s2other-0451,ok,,,,effects.md line 15191 (S1-0008),
+B2_s2other-0450,ok,,,,effects.md line 15188 (S1-0005),
+B2_s2other-0449,ok,,,,effects.md line 15185 (S1-0002),
+B2_s2other-0447,ok,,,,effects.md line 14820 (S1-0130),
+B2_s2other-0445,ok,,,,effects.md line 14805 (S1-0115),
+B2_s2other-0444,ok,,,,effects.md line 14778 (S1-0088),
+B2_s2other-0442,ok,,,,effects.md line 14819 (S1-0129),
+B2_s2other-0441,ok,,,,effects.md line 14804 (S1-0114),
+B2_s2other-0440,ok,,,,effects.md line 14777 (S1-0087),
+B2_s2other-0439,ok,,,,effects.md line 14818 (S1-0128),
+B2_s2other-0437,ok,,,,effects.md line 14776 (S1-0086),
+B2_s2other-0375,ok,,,,effects.md line 10249 (S1-054),
+B2_s2other-0374,ok,,,,effects.md line 10242 (S1-047),
+B2_s2other-0373,ok,,,,effects.md line 10237 (S1-042),
+B2_s2other-0372,ok,,,,effects.md line 10229 (S1-034),
+B2_s2other-0371,ok,,,,effects.md line 10207 (S1-012),
+B2_s2other-0362,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9336","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0361,ok,,,,effects.md line 9335 (S1-116),
+B2_s2other-0360,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9331","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0359,ok,,,,effects.md line 9330 (S1-111),
+B2_s2other-0358,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9316","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0357,ok,,,,effects.md line 9315 (S1-096),
+B2_s2other-0356,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9311","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0355,ok,,,,effects.md line 9310 (S1-091),
+B2_s2other-0354,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9306","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0353,ok,,,,effects.md line 9305 (S1-086),
+B2_s2other-0352,unsure,y_code,Mixed,Mixed (weak) or V; not PAD-specific,"raw_data.md Sarma2013 m-dbs-reck (items: driving too close, distraction, inattention, no safety margins, fatigue); effects.md:9301","Reckless driving scale has one or two V items (close following, safety margins) and three lapse-type items (distraction, inattention, fatigue) that are neither violative nor aggressive-looking. Mixed is a loose fit; consider sensitivity analysis without these rows."
+B2_s2other-0351,ok,,,,effects.md line 9300 (S1-081),LOC subscales have no a priori direction (documented); sign_x +1 inherited
+B2_s2other-0376,ok,,,,effects.md line 10250 (S1-055),
+B2_s2other-0377,ok,,,,effects.md line 10252 (S1-057),
+B2_s2other-0378,ok,,,,effects.md line 10259 (S1-064),
+B2_s2other-0379,ok,,,,effects.md line 10260 (S1-065),
+B2_s2other-0403,ok,,,,effects.md line 12881 (S1-058),
+B2_s2other-0402,ok,,,,effects.md line 12879 (S1-056),
+B2_s2other-0401,ok,,,,effects.md line 11464 (S1-019),
+B2_s2other-0400,ok,,,,effects.md line 11466 (S1-021),
+B2_s2other-0399,ok,,,,effects.md line 11462 (S1-017),
+B2_s2other-0398,ok,,,,effects.md line 11446 (S1-009),
+B2_s2other-0395,ok,,,,effects.md line 11314 (root-DEP6),
+B2_s2other-0394,ok,,,,effects.md line 11312 (root-DEP4),
+B2_s2other-0349,ok,,,,effects.md line 9290 (S1-071),
+B2_s2other-0393,ok,,,,effects.md line 11311 (root-DEP3),
+B2_s2other-0391,ok,,,,effects.md line 11171 (DEP-001),
+B2_s2other-0390,ok,,,,effects.md line 11172 (DEP-002),
+B2_s2other-0389,ok,,,,effects.md line 11175 (DEP-005),
+B2_s2other-0388,ok,,,,effects.md line 11176 (DEP-006),
+B2_s2other-0387,exclude,row,included,remove,"effects.md:10994 (Steinhauser2018 S1-069, ConTRe tracking task)","Outcome is variability of lateral tracking deviation in a laboratory tracking task, not a PAD-related behavior. Same reason as 0386."
+B2_s2other-0386,exclude,row,included,remove,"effects.md:10987 (Steinhauser2018 S1-059, ConTRe tracking task)","Outcome is mean lateral tracking deviation in a laboratory tracking task, which is neither a rule-breaking vehicle movement nor a behavior perceived as aggressive. Not a PAD-related behavior (protocol section 3 exclusion). The authors' own note says PAD relevance doubtful."
+B2_s2other-0383,unsure,y_code,Mixed,not V/NV (speed variability),effects.md:11097 (Steinhauser2018 S1-114),Same as B1_s2core-257; additionally induced happiness has no a priori risk direction (sign_x +1 arbitrary) and the effect is null (t=0.75).
+B2_s2other-0382,unsure,x direction,sign_x +1 (happy=group 1),no a priori direction,effects.md:11094 (Steinhauser2018 S1-107),"Value and t sign verified (happy 53.7 vs calm 53.8, t=-0.26, N=73). Induced happiness has no a priori risk direction, so the sign is arbitrary; effect is null."
+B2_s2other-0381,unsure,x construct,PSY_OTHER SOCIAL_DESIRABILITY sign_x +1,no risk direction; response bias,effects.md:10795 (Smorti2018 S1-012),"Value r=-.33, N=285 verified. Same issue as 0380."
+B2_s2other-0380,unsure,x construct,PSY_OTHER SOCIAL_DESIRABILITY sign_x +1,no risk direction; response bias,effects.md:10794 (Smorti2018 S1-011),"Value r=-.26, N=285 verified. Marlowe-Crowne social desirability is a response-style control, not a PAD psychological process, and has no risk direction. Suggest excluding from the pooled directional estimate."
+B2_s2other-0392,ok,,,,effects.md line 11309 (root-DEP1),
+B2_s2other-0233,ok,,,,raw_data.md line 10006 (G064),
+B2_s2other-0165,ok,,,,effects.md line 16939 (DotseRowe2021_GhanaDBQ-R02-C01),
+B2_s2other-0231,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5860 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0076,ok,,,,raw_data.md line 40282 (AAA2025-GD-Table12-0507),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0075,ok,,,,raw_data.md line 40281 (AAA2025-GD-Table12-0506),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0074,ok,,,,raw_data.md line 40280 (AAA2025-GD-Table12-0505),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0073,ok,,,,raw_data.md line 40279 (AAA2025-GD-Table12-0504),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0072,ok,,,,raw_data.md line 40278 (AAA2025-GD-Table12-0503),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0071,ok,,,,raw_data.md line 40277 (AAA2025-GD-Table12-0502),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0070,ok,,,,raw_data.md line 40276 (AAA2025-GD-Table12-0501),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0069,ok,,,,raw_data.md line 40266 (AAA2025-GD-Table12-0491),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0068,ok,,,,raw_data.md line 40265 (AAA2025-GD-Table12-0490),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0067,ok,,,,raw_data.md line 40264 (AAA2025-GD-Table12-0489),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0066,ok,,,,raw_data.md line 40263 (AAA2025-GD-Table12-0488),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0065,ok,,,,raw_data.md line 40262 (AAA2025-GD-Table12-0487),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0064,ok,,,,raw_data.md line 40261 (AAA2025-GD-Table12-0486),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0063,ok,,,,raw_data.md line 40260 (AAA2025-GD-Table12-0485),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0062,ok,,,,raw_data.md line 40258 (AAA2025-GD-Table12-0483),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0061,ok,,,,raw_data.md line 40257 (AAA2025-GD-Table12-0482),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0060,ok,,,,raw_data.md line 40256 (AAA2025-GD-Table12-0481),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0059,ok,,,,raw_data.md line 40255 (AAA2025-GD-Table12-0480),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0113,ok,,,,raw_data.md line 40211 (AAA2025-GD-Table12-0436),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0112,ok,,,,raw_data.md line 40195 (AAA2025-GD-Table12-0420),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0111,ok,,,,raw_data.md line 40179 (AAA2025-GD-Table12-0404),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0110,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40027; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0109,ok,,,,raw_data.md line 39995 (AAA2025-GD-Table11-0220),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0114,ok,,,,raw_data.md line 40227 (AAA2025-GD-Table12-0452),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0058,ok,,,,raw_data.md line 40254 (AAA2025-GD-Table12-0479),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0056,ok,,,,raw_data.md line 40252 (AAA2025-GD-Table12-0477),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0025,ok,,,,raw_data.md line 40176 (AAA2025-GD-Table12-0401),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0024,ok,,,,raw_data.md line 40175 (AAA2025-GD-Table12-0400),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0023,ok,,,,raw_data.md line 40174 (AAA2025-GD-Table12-0399),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0022,ok,,,,raw_data.md line 40173 (AAA2025-GD-Table12-0398),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0021,ok,,,,raw_data.md line 40172 (AAA2025-GD-Table12-0397),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0020,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40026; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0019,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40025; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0018,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40024; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0017,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40023; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0016,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40022; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0015,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40021; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0014,unsure,x direction / reference group,group 1 = too much enforcement vs about right,"no clear risk direction; discards the largest group (not enough, n=1682)",raw_data.md 40020; note on PERCEIVED_ENFORCEMENT,"Values p1, p2, n1, n2 match the source cells. Group 1 = 'too much' (n=118) vs 'about right' (n=1220) is a post hoc contrast that omits 'not enough' (n=1682). Deterrence theory would make 'not enough' the risk group, so the sign is arbitrary."
+B2_s2other-0013,ok,,,,raw_data.md line 39994 (AAA2025-GD-Table11-0219),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0012,ok,,,,raw_data.md line 39993 (AAA2025-GD-Table11-0218),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0011,ok,,,,raw_data.md line 39992 (AAA2025-GD-Table11-0217),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0010,ok,,,,raw_data.md line 39991 (AAA2025-GD-Table11-0216),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0009,ok,,,,raw_data.md line 39990 (AAA2025-GD-Table11-0215),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0008,ok,,,,raw_data.md line 39989 (AAA2025-GD-Table11-0214),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0007,ok,,,,raw_data.md line 39988 (AAA2025-GD-Table11-0213),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0006,ok,,,,raw_data.md line 38895 (AAA2016-GD-C10/C11/C12-B05),computed p1 = 31.3% verified; y NV is a judgment (lane blocking is a manoeuvre but not a rule violation)
+B2_s2other-0005,ok,,,,raw_data.md line 38896 (AAA2016-GD-C10/C11/C12-B06),computed p1 = 19.3% verified
+B2_s2other-0004,ok,,,,raw_data.md line 38894 (AAA2016-GD-C10/C11/C12-B04),computed p1 = 41.6% verified
+B2_s2other-0003,ok,,,,raw_data.md line 38893 (AAA2016-GD-C10/C11/C12-B03),computed p1 = 47.8% verified
+B2_s2other-0002,ok,,,,raw_data.md line 38892 (AAA2016-GD-C10/C11/C12-B02),computed p1 = 50.6% verified
+B2_s2other-0001,ok,,,,raw_data.md line 38891 (AAA2016-GD-C10/C11/C12-B01),"AAA2016 pooled group computed p1=(437*62.0+24*94.2)/461=63.7%; verified against raw_data 38891/38899/38907 (weighted % applied to unweighted n, approximate)"
+B2_s2other-0026,ok,,,,raw_data.md line 40177 (AAA2025-GD-Table12-0402),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0057,ok,,,,raw_data.md line 40253 (AAA2025-GD-Table12-0478),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0027,ok,,,,raw_data.md line 40178 (AAA2025-GD-Table12-0403),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0029,ok,,,,raw_data.md line 40189 (AAA2025-GD-Table12-0414),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0055,ok,,,,raw_data.md line 40242 (AAA2025-GD-Table12-0467),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0054,ok,,,,raw_data.md line 40241 (AAA2025-GD-Table12-0466),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0053,ok,,,,raw_data.md line 40240 (AAA2025-GD-Table12-0465),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0052,ok,,,,raw_data.md line 40239 (AAA2025-GD-Table12-0464),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0051,ok,,,,raw_data.md line 40238 (AAA2025-GD-Table12-0463),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0050,ok,,,,raw_data.md line 40237 (AAA2025-GD-Table12-0462),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0049,ok,,,,raw_data.md line 40236 (AAA2025-GD-Table12-0461),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0048,ok,,,,raw_data.md line 40226 (AAA2025-GD-Table12-0451),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0047,ok,,,,raw_data.md line 40225 (AAA2025-GD-Table12-0450),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0046,ok,,,,raw_data.md line 40224 (AAA2025-GD-Table12-0449),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0045,ok,,,,raw_data.md line 40223 (AAA2025-GD-Table12-0448),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0044,ok,,,,raw_data.md line 40222 (AAA2025-GD-Table12-0447),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0043,ok,,,,raw_data.md line 40221 (AAA2025-GD-Table12-0446),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0042,ok,,,,raw_data.md line 40220 (AAA2025-GD-Table12-0445),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0041,ok,,,,raw_data.md line 40210 (AAA2025-GD-Table12-0435),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0040,ok,,,,raw_data.md line 40209 (AAA2025-GD-Table12-0434),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0039,ok,,,,raw_data.md line 40208 (AAA2025-GD-Table12-0433),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0038,ok,,,,raw_data.md line 40207 (AAA2025-GD-Table12-0432),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0037,ok,,,,raw_data.md line 40206 (AAA2025-GD-Table12-0431),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0036,ok,,,,raw_data.md line 40205 (AAA2025-GD-Table12-0430),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0035,ok,,,,raw_data.md line 40204 (AAA2025-GD-Table12-0429),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0033,ok,,,,raw_data.md line 40193 (AAA2025-GD-Table12-0418),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0032,ok,,,,raw_data.md line 40192 (AAA2025-GD-Table12-0417),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0031,ok,,,,raw_data.md line 40191 (AAA2025-GD-Table12-0416),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0030,ok,,,,raw_data.md line 40190 (AAA2025-GD-Table12-0415),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0028,ok,,,,raw_data.md line 40188 (AAA2025-GD-Table12-0413),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0115,ok,,,,raw_data.md line 40243 (AAA2025-GD-Table12-0468),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0034,ok,,,,raw_data.md line 40194 (AAA2025-GD-Table12-0419),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0117,ok,,,,raw_data.md line 40267 (AAA2025-GD-Table12-0492),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0201,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3647","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0200,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3646","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0199,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3645","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0198,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3642","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0197,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3641","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0196,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3640","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0195,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3637","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0194,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3636","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0193,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3635","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0192,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3632","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0191,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3631","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0190,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3630","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0189,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3627","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0188,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3626","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0187,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3625","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0186,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3622","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0185,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3621","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0184,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3620","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0183,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3617","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0182,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3616","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0181,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3615","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0180,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3612","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0179,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3611","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0178,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3610","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0177,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3607","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0202,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3650","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0176,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3606","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0203,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3651","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0205,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3655","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0116,ok,,,,raw_data.md line 40259 (AAA2025-GD-Table12-0484),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0230,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5859 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0229,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5858 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0228,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5857 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0227,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5856 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0226,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5855 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0225,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5854 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0224,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5853 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0223,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5852 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0222,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5851 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0221,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5850 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0220,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5849 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0219,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5848 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0218,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5847 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0217,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5846 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0216,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5845 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0215,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5844 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0214,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5843 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0212,ok,,,,effects.md line 5649 (S1-019),
+B2_s2other-0210,ok,,,,effects.md line 5372 (S1-021),"Li2016 Table 6 r=.65; both scales reverse-keyed, sign product unchanged"
+B2_s2other-0209,ok,,,,effects.md line 5370 (S1-019),"Li2016 Table 6 r=.32; both scales reverse-keyed, sign product unchanged"
+B2_s2other-0208,ok,,,,raw_data.md line 44861 (Ivers-correlation),
+B2_s2other-0207,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3657","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0206,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3656","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0204,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3652","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0175,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3605","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0213,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5842 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0173,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3601","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0139,ok,,,,effects.md line 66 (S1-024),
+B2_s2other-0138,ok,,,,effects.md line 65 (S1-023),
+B2_s2other-0137,ok,,,,effects.md line 63 (S1-021),
+B2_s2other-0136,ok,,,,effects.md line 56 (S1-014),
+B2_s2other-0135,ok,,,,effects.md line 55 (S1-013),
+B2_s2other-0134,ok,,,,effects.md line 53 (S1-011),
+B2_s2other-0174,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3602","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0118,ok,,,,raw_data.md line 40283 (AAA2025-GD-Table12-0508),"p1, p2, n1, n2 match the two raw_data cells; weighted % of high engagement with unweighted n (approximate); theme rows overlap with the Overall row"
+B2_s2other-0147,fix,sign_x,1,-1,"raw_data.md:2400+ (Coogan2014 M-05 note: factor reverse-scored, high = more confident/less problematic; GD-009/010 Confident Low-risk 6.63 vs High-risk 5.39)","Confident factor is higher in the low-risk cluster, so a higher score is the safe direction; risk direction is lower score (sign_x -1). Aligned r becomes +0.13."
+B2_s2other-0172,unsure,design / x direction,pooled with sign_x=+1 as if directional,treat as exploratory; consider excluding from the primary pooled S2 estimate,"raw_data.md Ge2021 Methods (allocation: >=6 penalty points in the previous year = 'dangerous' n=17, others 'safe' n=17; analysis_n 34); effects.md:3600","Value, y_code and N=34 verified against Tables 5-6. Two concerns. (1) The 34 drivers form an extreme-group sample defined by penalty points, and DDDI differs strongly between groups (83 vs 60), so r is likely inflated by range enlargement. (2) ERP amplitude or latency has no a priori risk direction, so sign_x=+1 is arbitrary and r_aligned is not interpretable as a risk-direction association."
+B2_s2other-0232,unsure,x construct / sign_x,"rank of driver type as anger trigger, sign_x=+1",no risk direction; ipsative ranks,"effects.md:5861 (Love2024 Table 2); measure note: rank 1 = angers most, 4 = least","Value r and N=527 verified. The x_label says 'ranks X as more angering' but the score is reverse (higher rank number = less angering). The four ranks are ipsative (sum constant), so each correlation depends on the other three ranks, and sign_x=+1 is arbitrary. Suggest excluding the 20 trigger-rank rows from the pooled directional estimate."
+B2_s2other-0163,ok,,,,effects.md line 2408 (S1-034),Normlessness higher = more normless (positive r with RD); sign_x +1 correct
+B2_s2other-0161,ok,,,,effects.md line 2406 (S1-032),"Altruism treated as agreeableness, sign_x -1 correct (aligned r +.058)"
+B2_s2other-0160,ok,,,,effects.md line 15773 (Davey2007-E28),"Davey2007 Table 4 r=.53; Mixed is justified (4 aggressive, 5 highway-code, 1 error item); masem used NV"
+B2_s2other-0158,ok,,,,effects.md line 2051 (S1-131),
+B2_s2other-0159,ok,,,,effects.md line 15772 (Davey2007-E27),
+B2_s2other-0149,ok,,,,effects.md line 1970 (S1-050),
+B2_s2other-0148,fix,sign_x,1,-1,raw_data.md:2400+ (Coogan2014 M-05 note; GD-009/010),Same as 0147: Confident is reverse-scored (high = less problematic).
+B2_s2other-0151,ok,,,,effects.md line 1984 (S1-064),
+B2_s2other-0150,ok,,,,effects.md line 1971 (S1-051),
+B2_s2other-0153,fix,sign_x,1,-1,raw_data.md:2400+ (Coogan2014 M-05 note; GD-009/010),Same as 0147.
+B2_s2other-0152,ok,,,,effects.md line 1985 (S1-065),
+B2_s2other-0154,fix,sign_x,1,-1,raw_data.md:2400+ (Coogan2014 M-05 note; GD-009/010),Same as 0147.
+B2_s2other-0155,ok,,,,effects.md line 2037 (S1-117),
+B2_s2other-0156,ok,,,,effects.md line 2047 (S1-127),
+B2_s2other-0157,ok,,,,effects.md line 2041 (S1-121),
