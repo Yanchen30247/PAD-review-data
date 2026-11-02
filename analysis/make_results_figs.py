@@ -259,18 +259,18 @@ forest_panel(fig, W, H, 0.03, forest_h(brows6), brows6, "(b) Intentional process
 save(fig, "fig6_rq2_processes")
 
 # ---------------------------------------------------------------- Figure 7 (RQ3)
-vnv = json.load(open(os.path.join(HERE, "stage3", "stage3_vnv_results.json"), encoding="utf-8"))
-# item frequencies from the manuscript's current Stage 3 analysis (rule A: close following is V; 6-8 studies per item)
-rulea = json.load(open(os.path.join(HERE, "stage3", "stage3_rulea_results.json"), encoding="utf-8"))
-items = pd.DataFrame(rulea["dbq"])
+vnv = json.load(open(os.path.join(HERE, "rq3_frequency", "cooccurrence_results.json"), encoding="utf-8"))
+# item frequencies from the manuscript's frequency analysis (close following is violative; 6-8 studies per item)
+freq = json.load(open(os.path.join(HERE, "rq3_frequency", "item_frequency_results.json"), encoding="utf-8"))
+items = pd.DataFrame(freq["dbq"])
 items = items[items.label.ne("Angry pursuit")]  # angry pursuit is not shown
-for it in rulea["dbq"]:
+for it in freq["dbq"]:
     log.append(dict(label="DBQ " + it["label"], k=it["studies"], m=it["k"], est=it["mean"], lo=it["ci_low"], hi=it["ci_high"], p=np.nan))
 names = {"Speeding": "Speeding", "Red-light running": "Red-light running", "Unsafe lane changes": "Unsafe lane changes",
          "Illegal overtaking": "Illegal overtaking", "Racing": "Racing", "Close following": "Close following",
          "Horn use": "Horn use", "Hostile expression": "Hostile expression", "Angry pursuit": "Angry pursuit"}
 items = items.sort_values("mean")
-vrows7 = [("vote", "Within-sample\ncomparisons", 10, 6, 14, 0.5412561893463135)]  # rule A calls, s3f_summary_rulea.json (30 studies)
+vrows7 = [("vote", "Within-sample\ncomparisons", 10, 6, 14, 0.5412561893463135)]  # rq3_frequency/within_sample_comparison_summary.json (30 studies)
 log.append(dict(label="vote RQ3 within-sample (NV more, unclear, V more)", k=30, m=np.nan, est=10, lo=6, hi=14, p=0.5412561893463135))
 # Figure 7: left column (a) above (c); right column (b) over the full height
 W = W_FULL

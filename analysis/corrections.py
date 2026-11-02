@@ -1,4 +1,4 @@
-# Apply the second verification (verify/verify_V1-V3.csv) to the merged extraction, plus decisions on the rows the
+# Apply the second verification (verification/verification_part1-3.csv) to the merged extraction, plus decisions on the rows the
 # checkers marked unsure. Called by run_rq_meta.load() before conversion. Every rule is listed here so it can be audited.
 import glob, os, re
 import pandas as pd
@@ -9,7 +9,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 def apply(d):
     d = d.set_index("es_id", drop=False)
     log = []
-    for f in sorted(glob.glob(os.path.join(HERE, "verify", "verify_V*.csv"))):
+    for f in sorted(glob.glob(os.path.join(HERE, "verification", "verification_part*.csv"))):
         v = pd.read_csv(f, dtype=str, keep_default_na=False, encoding="utf-8-sig")
         for _, r in v[v.verdict.eq("fix")].iterrows():
             if r.es_id not in d.index or r.field not in d.columns:

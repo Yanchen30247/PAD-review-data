@@ -19,7 +19,7 @@ F = lambda x: f"{x:.3f}"
 
 def load():
     d = pd.concat([pd.read_csv(f, dtype=str, keep_default_na=False, encoding="utf-8-sig")
-                   for f in glob.glob(os.path.join(HERE, "*", "effects_*.csv"))], ignore_index=True)
+                   for f in glob.glob(os.path.join(HERE, "extracted_effects", "effects_*.csv"))], ignore_index=True)
     for c in d.columns:
         d[c] = d[c].str.strip()
     d = corrections.apply(d)

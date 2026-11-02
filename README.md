@@ -8,9 +8,9 @@ Contact: Yunmei Liu, yunmei.liu@louisville.edu
 
 | Path | Content |
 | --- | --- |
-| `analysis/*/effects_*.csv` | Extracted effect sizes in the six extraction batches (RQ1, RQ2, RQ4, RQ5) |
-| `analysis/verify/verify_V*.csv` | Second-verification records; `corrections.py` applies the corrections they contain |
-| `analysis/stage3/` | Behavior frequency and co-occurrence data for RQ3, and the within-sample comparison of violative and non-violative frequency |
+| `analysis/extracted_effects/` | Extracted effect sizes, one file for each part of the evidence (RQ1, RQ2, RQ4, RQ5) |
+| `analysis/verification/` | Second-verification records; `corrections.py` applies the corrections they contain |
+| `analysis/rq3_frequency/` | Behavior frequency and co-occurrence data for RQ3, and the within-sample comparison of violative and non-violative frequency |
 | `analysis/results/all_effects_converted.csv` | All extracted rows after conversion to r and log OR, with the analysis flags |
 | `analysis/results/results_table_s3.csv` | Table S3 of the article at full precision |
 | `analysis/results/vote_counts.csv`, `vote_by_study.csv` | Direction-of-effect synthesis, by factor and by study |

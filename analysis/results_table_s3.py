@@ -90,14 +90,14 @@ rows = [
 ]
 
 # RQ3: co-occurrence (same data as Figure 7b) and item frequency (same data as Figure 7a)
-vnv = json.load(open(os.path.join(HERE, "stage3", "stage3_vnv_results.json"), encoding="utf-8"))
+vnv = json.load(open(os.path.join(HERE, "rq3_frequency", "cooccurrence_results.json"), encoding="utf-8"))
 co = pd.DataFrame(vnv["cooccurrence_rows"])
 co = co[co.id.ne("Yousaf2024_CN")]
 z, v, cl = np.arctanh(co.r.values), 1 / (co.n.values - 3), co.id.str.replace("_PK", "").values
 r, i2, eg = stats(z, v, cl)
 rows.append(dict(rq="RQ3", label="Violative and non-violative behaviors, within samples (r)", k=r["k"], m=r["m"], N=int(co.n.sum()),
                  est=np.tanh(r["b"][0]), lo=np.tanh(r["lo"][0]), hi=np.tanh(r["hi"][0]), I2=i2, egger_p=eg))
-ra = json.load(open(os.path.join(HERE, "stage3", "stage3_rulea_results.json"), encoding="utf-8"))
+ra = json.load(open(os.path.join(HERE, "rq3_frequency", "item_frequency_results.json"), encoding="utf-8"))
 inp = pd.DataFrame(ra["dbq_inputs"])
 dbq = pd.DataFrame(ra["dbq"])
 dbq = dbq[dbq.label.ne("Angry pursuit")].sort_values("mean", ascending=False)  # angry pursuit is not shown in Figure 7a
